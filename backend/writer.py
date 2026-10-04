@@ -5,8 +5,8 @@ import os
 import anthropic
 
 client = anthropic.Anthropic()  # reads ANTHROPIC_API_KEY
-MODEL = os.getenv("CLAUDE_MODEL", "claude-opus-5-5")
-EFFORT = os.getenv("CLAUDE_EFFORT", "medium")  # Opus 5.5 defaults to medium; set explicitly anyway
+MODEL = os.getenv("CLAUDE_MODEL", "claude-sonnet-5-5")  # half Opus 5.5's price, good for short reports
+EFFORT = os.getenv("CLAUDE_EFFORT", "medium")  # Sonnet 5.5 defaults to high; medium is plenty here
 
 SYSTEM = """You write short, plain-English summaries of spreadsheet data for small-business owners.
 

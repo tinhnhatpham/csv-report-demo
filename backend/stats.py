@@ -16,7 +16,7 @@ TYPE_THRESHOLD = 0.9  # a column is "numeric"/"date" if 90%+ of its non-empty ce
 MAX_CATEGORIES = 50   # text columns with more distinct values than this aren't treated as categories
 METRIC_NAME = re.compile(r"revenue|sales|amount|total|price|income|profit|cost|spend|value", re.I)
 
-_NUMBER = re.compile(r"^[-+]?\(?\s*[$€£]?\s*[\d,]*\.?\d+\s*\)?\s*%?$")
+_NUMBER = re.compile(r"^[-+]?\(?\s*[$€£]?\s*(\d[\d.,]*|\.\d+)\s*\)?\s*%?$")
 _DATE_FORMATS = (
     "%Y-%m-%d", "%Y/%m/%d", "%m/%d/%Y", "%m/%d/%y", "%d/%m/%Y", "%Y-%m-%d %H:%M:%S",
     "%Y-%m-%dT%H:%M:%S", "%Y-%m-%d %H:%M", "%b %d, %Y", "%d %b %Y", "%B %d, %Y",
@@ -32,9 +32,18 @@ def to_number(text: str):
     if not text or not _NUMBER.match(text):
         return None
     negative = text.startswith("-") or (text.startswith("(") and text.endswith(")"))
-    digits = re.sub(r"[^\d.]", "", text)
+    body = re.sub(r"[^\d.,]", "", text)
+    if "," in body and "." in body:
+        # Whichever separator comes last is the decimal point: 1,250.00 (US) vs 1.250,00 (Europe)
+        if body.rfind(",") > body.rfind("."):
+            body = body.replace(".", "").replace(",", ".")
+        else:
+            body = body.replace(",", "")
+    elif "," in body:
+        # A single comma followed by 1-2 digits is a decimal comma (12,50); otherwise thousands (3,200)
+        body = body.replace(",", ".") if re.fullmatch(r"\d+,\d{1,2}", body) else body.replace(",", "")
     try:
-        value = float(digits)
+        value = float(body)
     except ValueError:
         return None
     return -value if negative else value
@@ -150,6 +159,8 @@ def profile(header, rows):
                 months[d.strftime("%Y-%m")][0] += val
                 months[d.strftime("%Y-%m")][1] += 1
         series = [{"month": m, "total": r2(v[0]), "rows": v[1]} for m, v in sorted(months.items())][-36:]
+        for prev, cur in zip(series, series[1:]):
+            cur["change_vs_previous_month_pct"] = pct_change(prev["total"], cur["total"])
         trend = {"date_column": date_col, "by_month": series}
         if len(series) >= 2:
             best = max(series, key=lambda s: s["total"])
