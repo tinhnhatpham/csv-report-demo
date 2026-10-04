@@ -24,6 +24,7 @@ MAX_REPORTS_PER_DAY = int(os.getenv("MAX_REPORTS_PER_DAY", "150"))   # whole sit
 SAMPLE_FILE = os.path.join(os.path.dirname(__file__), "sample_sales.csv")
 
 app = Flask(__name__)
+app.json.sort_keys = False  # keep the CSV's own column order in responses
 app.config["MAX_CONTENT_LENGTH"] = MAX_FILE_BYTES + 64 * 1024  # file + form overhead
 CORS(app, origins=os.getenv("ALLOWED_ORIGINS", "http://localhost:5173").split(","))
 
@@ -84,15 +85,17 @@ def create_report():
     if limit := over_limits():
         return jsonify({"error": limit}), 429
 
+    samples = sample_rows(header, rows)
     try:
-        report = write_report(stats, sample_rows(header, rows))
+        report = write_report(stats, samples)
     except WriterError as e:
         return jsonify({"error": str(e)}), 502
     except anthropic.APIError as e:
         app.logger.error(f"Claude API error: {e}")
         return jsonify({"error": "The AI writer is unavailable right now. Please try again."}), 502
 
-    return jsonify({"filename": filename, "report": report, "stats": stats})
+    # sample_rows is returned so the page can show exactly what the AI saw (stats + these rows only)
+    return jsonify({"filename": filename, "report": report, "stats": stats, "sample_rows": samples})
 
 
 if __name__ == "__main__":

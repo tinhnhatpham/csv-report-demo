@@ -218,6 +218,63 @@ th {
   font-variant-numeric: tabular-nums;
 }
 
+.why {
+  margin: 8px 0 18px;
+}
+
+.why-title {
+  font-size: 18px;
+  margin: 0 0 12px;
+}
+
+.why-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 14px;
+}
+
+.why-grid > div {
+  background: #fff;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  padding: 16px;
+}
+
+.why-grid h3 {
+  margin: 0 0 6px;
+  font-size: 15px;
+}
+
+.why-grid p {
+  margin: 0;
+  font-size: 14px;
+  color: #475467;
+}
+
+@media (max-width: 700px) {
+  .why-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.business {
+  background: var(--accent-soft);
+  border-color: #dbe4ff;
+}
+
+.business h3 {
+  margin-top: 0;
+}
+
+.business p {
+  margin: 0;
+  color: #344054;
+}
+
+.scroll {
+  overflow-x: auto;
+}
+
 footer {
   margin-top: 28px;
   text-align: center;

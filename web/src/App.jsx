@@ -100,11 +100,11 @@ export default function App() {
   return (
     <div className="wrap">
       <header>
-        <p className="eyebrow">Demo</p>
-        <h1>Turn a spreadsheet into a summary you can read in a minute.</h1>
+        <p className="eyebrow">Demo · AI reports for small teams</p>
+        <h1>One-click sales reports your team can trust.</h1>
         <p className="lead">
-          Upload a CSV of sales, orders or expenses. You get the key numbers, trends and what to look into next, in
-          plain English.
+          Upload a CSV export of sales, orders or expenses. Get the same clear report every time: the key numbers,
+          the trends and what to look into next.
         </p>
       </header>
 
@@ -142,6 +142,29 @@ export default function App() {
           ). Up to 1 MB / 20,000 rows. Your file is processed in memory and not stored.
         </p>
       </section>
+
+      {!result && !busy && (
+        <section className="why">
+          <h2 className="why-title">Why not just paste the file into an AI chat?</h2>
+          <div className="why-grid">
+            <div>
+              <h3>Numbers you can check</h3>
+              <p>Every figure is calculated by code, not guessed by the AI. The table under the report shows the math.</p>
+            </div>
+            <div>
+              <h3>Your data stays private</h3>
+              <p>
+                The file is processed in memory and never stored. The AI only sees summary numbers and 5 example rows,
+                and you can see exactly what it saw.
+              </p>
+            </div>
+            <div>
+              <h3>Same format, no prompting</h3>
+              <p>Anyone on the team gets the same structured report in one click. No AI account or prompt writing.</p>
+            </div>
+          </div>
+        </section>
+      )}
 
       {busy && (
         <p className="status" role="status">
@@ -199,13 +222,51 @@ export default function App() {
           </article>
 
           <Numbers stats={result.stats} />
+          <AiInput samples={result.sample_rows} />
         </>
       )}
 
+      <section className="card business">
+        <h3>For your business</h3>
+        <p>
+          This demo is a starting template. The same engine can read your POS, Shopify or accounting export on a
+          schedule and send your team the report every Monday, in your format, with your metrics.
+        </p>
+      </section>
+
       <footer className="muted small">
-        Built by Steven (LogicAgentry) · Python, React and the Claude API
+        Built by Steven (LogicAgentry) · Python, React and the Claude API ·{" "}
+        <a href="https://steven-pham-dev.netlify.app" target="_blank" rel="noopener">
+          More projects
+        </a>
       </footer>
     </div>
+  );
+}
+
+function AiInput({ samples }) {
+  if (!samples?.length) return null;
+  const cols = Object.keys(samples[0]);
+  return (
+    <details className="card numbers">
+      <summary>What the AI saw</summary>
+      <p className="muted small">
+        Only the numbers in the table above, plus these {samples.length} example rows (long cells shortened) so it
+        understands what the data looks like. Nothing else from your file was sent, and nothing is stored.
+      </p>
+      <div className="scroll">
+        <table>
+          <thead>
+            <tr>{cols.map((c) => <th key={c}>{c}</th>)}</tr>
+          </thead>
+          <tbody>
+            {samples.map((row, i) => (
+              <tr key={i}>{cols.map((c) => <td key={c}>{row[c]}</td>)}</tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </details>
   );
 }
 
