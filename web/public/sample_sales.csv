@@ -1,0 +1,2716 @@
+date,location,product,category,quantity,revenue
+2026-01-01,Downtown,Latte,Drinks,40,190.00
+2026-01-01,Downtown,Cold brew,Drinks,7,29.75
+2026-01-01,Downtown,Croissant,Food,20,70.00
+2026-01-01,Downtown,Bagel,Food,13,38.35
+2026-01-01,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-01-01,Riverside,Latte,Drinks,31,147.25
+2026-01-01,Riverside,Cold brew,Drinks,7,29.75
+2026-01-01,Riverside,Croissant,Food,14,49.00
+2026-01-01,Riverside,Bagel,Food,11,32.45
+2026-01-01,Riverside,Coffee beans (1 lb),Retail,2,30.00
+2026-01-01,Airport,Latte,Drinks,46,218.50
+2026-01-01,Airport,Cold brew,Drinks,11,46.75
+2026-01-01,Airport,Croissant,Food,24,84.00
+2026-01-01,Airport,Bagel,Food,18,53.10
+2026-01-01,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-01-02,Downtown,Latte,Drinks,39,185.25
+2026-01-02,Downtown,Cold brew,Drinks,7,29.75
+2026-01-02,Downtown,Croissant,Food,23,80.50
+2026-01-02,Downtown,Bagel,Food,17,50.15
+2026-01-02,Downtown,Coffee beans (1 lb),Retail,2,30.00
+2026-01-02,Riverside,Latte,Drinks,32,152.00
+2026-01-02,Riverside,Cold brew,Drinks,7,29.75
+2026-01-02,Riverside,Croissant,Food,15,52.50
+2026-01-02,Riverside,Bagel,Food,10,29.50
+2026-01-02,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-01-02,Airport,Latte,Drinks,48,228.00
+2026-01-02,Airport,Cold brew,Drinks,10,42.50
+2026-01-02,Airport,Croissant,Food,25,87.50
+2026-01-02,Airport,Bagel,Food,23,67.85
+2026-01-02,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-01-03,Downtown,Latte,Drinks,53,251.75
+2026-01-03,Downtown,Cold brew,Drinks,11,46.75
+2026-01-03,Downtown,Croissant,Food,28,98.00
+2026-01-03,Downtown,Bagel,Food,22,64.90
+2026-01-03,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-01-03,Riverside,Latte,Drinks,36,171.00
+2026-01-03,Riverside,Cold brew,Drinks,9,38.25
+2026-01-03,Riverside,Croissant,Food,22,77.00
+2026-01-03,Riverside,Bagel,Food,16,47.20
+2026-01-03,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-01-03,Airport,Latte,Drinks,70,332.50
+2026-01-03,Airport,Cold brew,Drinks,12,51.00
+2026-01-03,Airport,Croissant,Food,33,115.50
+2026-01-03,Airport,Bagel,Food,23,67.85
+2026-01-03,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-01-04,Downtown,Latte,Drinks,43,204.25
+2026-01-04,Downtown,Cold brew,Drinks,9,38.25
+2026-01-04,Downtown,Croissant,Food,25,87.50
+2026-01-04,Downtown,Bagel,Food,20,59.00
+2026-01-04,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-01-04,Riverside,Latte,Drinks,34,161.50
+2026-01-04,Riverside,Cold brew,Drinks,7,29.75
+2026-01-04,Riverside,Croissant,Food,19,66.50
+2026-01-04,Riverside,Bagel,Food,17,50.15
+2026-01-04,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-01-04,Airport,Latte,Drinks,67,318.25
+2026-01-04,Airport,Cold brew,Drinks,12,51.00
+2026-01-04,Airport,Croissant,Food,41,143.50
+2026-01-04,Airport,Bagel,Food,22,64.90
+2026-01-04,Airport,Coffee beans (1 lb),Retail,5,75.00
+2026-01-05,Downtown,Latte,Drinks,46,218.50
+2026-01-05,Downtown,Cold brew,Drinks,9,38.25
+2026-01-05,Downtown,Croissant,Food,23,80.50
+2026-01-05,Downtown,Bagel,Food,16,47.20
+2026-01-05,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-01-05,Riverside,Latte,Drinks,32,152.00
+2026-01-05,Riverside,Cold brew,Drinks,6,25.50
+2026-01-05,Riverside,Croissant,Food,13,45.50
+2026-01-05,Riverside,Bagel,Food,10,29.50
+2026-01-05,Riverside,Coffee beans (1 lb),Retail,2,30.00
+2026-01-05,Airport,Latte,Drinks,46,218.50
+2026-01-05,Airport,Cold brew,Drinks,13,55.25
+2026-01-05,Airport,Croissant,Food,34,119.00
+2026-01-05,Airport,Bagel,Food,19,56.05
+2026-01-05,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-01-06,Downtown,Latte,Drinks,37,175.75
+2026-01-06,Downtown,Cold brew,Drinks,10,42.50
+2026-01-06,Downtown,Croissant,Food,22,77.00
+2026-01-06,Downtown,Bagel,Food,14,41.30
+2026-01-06,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-01-06,Riverside,Latte,Drinks,29,137.75
+2026-01-06,Riverside,Cold brew,Drinks,6,25.50
+2026-01-06,Riverside,Croissant,Food,17,59.50
+2026-01-06,Riverside,Bagel,Food,13,38.35
+2026-01-06,Riverside,Coffee beans (1 lb),Retail,2,30.00
+2026-01-06,Airport,Latte,Drinks,46,218.50
+2026-01-06,Airport,Cold brew,Drinks,14,59.50
+2026-01-06,Airport,Croissant,Food,30,105.00
+2026-01-06,Airport,Bagel,Food,17,50.15
+2026-01-06,Airport,Coffee beans (1 lb),Retail,3,45.00
+2026-01-07,Downtown,Latte,Drinks,32,152.00
+2026-01-07,Downtown,Cold brew,Drinks,9,38.25
+2026-01-07,Downtown,Croissant,Food,25,87.50
+2026-01-07,Downtown,Bagel,Food,15,44.25
+2026-01-07,Downtown,Coffee beans (1 lb),Retail,2,30.00
+2026-01-07,Riverside,Latte,Drinks,27,128.25
+2026-01-07,Riverside,Cold brew,Drinks,8,34.00
+2026-01-07,Riverside,Croissant,Food,17,59.50
+2026-01-07,Riverside,Bagel,Food,13,38.35
+2026-01-07,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-01-07,Airport,Latte,Drinks,42,199.50
+2026-01-07,Airport,Cold brew,Drinks,12,51.00
+2026-01-07,Airport,Croissant,Food,32,112.00
+2026-01-07,Airport,Bagel,Food,21,61.95
+2026-01-07,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-01-08,Downtown,Latte,Drinks,40,190.00
+2026-01-08,Downtown,Cold brew,Drinks,7,29.75
+2026-01-08,Downtown,Croissant,Food,22,77.00
+2026-01-08,Downtown,Bagel,Food,15,44.25
+2026-01-08,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-01-08,Riverside,Latte,Drinks,33,156.75
+2026-01-08,Riverside,Cold brew,Drinks,6,25.50
+2026-01-08,Riverside,Croissant,Food,17,59.50
+2026-01-08,Riverside,Bagel,Food,10,29.50
+2026-01-08,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-01-08,Airport,Latte,Drinks,59,280.25
+2026-01-08,Airport,Cold brew,Drinks,10,42.50
+2026-01-08,Airport,Croissant,Food,32,112.00
+2026-01-08,Airport,Bagel,Food,21,61.95
+2026-01-08,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-01-09,Downtown,Latte,Drinks,42,199.50
+2026-01-09,Downtown,Cold brew,Drinks,9,38.25
+2026-01-09,Downtown,Croissant,Food,25,87.50
+2026-01-09,Downtown,Bagel,Food,15,44.25
+2026-01-09,Downtown,Coffee beans (1 lb),Retail,2,30.00
+2026-01-09,Riverside,Latte,Drinks,27,128.25
+2026-01-09,Riverside,Cold brew,Drinks,5,21.25
+2026-01-09,Riverside,Croissant,Food,19,66.50
+2026-01-09,Riverside,Bagel,Food,13,38.35
+2026-01-09,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-01-09,Airport,Latte,Drinks,48,228.00
+2026-01-09,Airport,Cold brew,Drinks,9,38.25
+2026-01-09,Airport,Croissant,Food,34,119.00
+2026-01-09,Airport,Bagel,Food,24,70.80
+2026-01-09,Airport,Coffee beans (1 lb),Retail,3,45.00
+2026-01-10,Downtown,Latte,Drinks,48,228.00
+2026-01-10,Downtown,Cold brew,Drinks,9,38.25
+2026-01-10,Downtown,Croissant,Food,31,108.50
+2026-01-10,Downtown,Bagel,Food,21,61.95
+2026-01-10,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-01-10,Riverside,Latte,Drinks,36,171.00
+2026-01-10,Riverside,Cold brew,Drinks,8,34.00
+2026-01-10,Riverside,Croissant,Food,19,66.50
+2026-01-10,Riverside,Bagel,Food,16,47.20
+2026-01-10,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-01-10,Airport,Latte,Drinks,57,270.75
+2026-01-10,Airport,Cold brew,Drinks,15,63.75
+2026-01-10,Airport,Croissant,Food,41,143.50
+2026-01-10,Airport,Bagel,Food,22,64.90
+2026-01-10,Airport,Coffee beans (1 lb),Retail,5,75.00
+2026-01-11,Downtown,Latte,Drinks,57,270.75
+2026-01-11,Downtown,Cold brew,Drinks,11,46.75
+2026-01-11,Downtown,Croissant,Food,27,94.50
+2026-01-11,Downtown,Bagel,Food,19,56.05
+2026-01-11,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-01-11,Riverside,Latte,Drinks,32,152.00
+2026-01-11,Riverside,Cold brew,Drinks,7,29.75
+2026-01-11,Riverside,Croissant,Food,22,77.00
+2026-01-11,Riverside,Bagel,Food,13,38.35
+2026-01-11,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-01-11,Airport,Latte,Drinks,54,256.50
+2026-01-11,Airport,Cold brew,Drinks,15,63.75
+2026-01-11,Airport,Croissant,Food,33,115.50
+2026-01-11,Airport,Bagel,Food,30,88.50
+2026-01-11,Airport,Coffee beans (1 lb),Retail,6,90.00
+2026-01-12,Downtown,Latte,Drinks,32,152.00
+2026-01-12,Downtown,Cold brew,Drinks,8,34.00
+2026-01-12,Downtown,Croissant,Food,24,84.00
+2026-01-12,Downtown,Bagel,Food,13,38.35
+2026-01-12,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-01-12,Riverside,Latte,Drinks,34,161.50
+2026-01-12,Riverside,Cold brew,Drinks,7,29.75
+2026-01-12,Riverside,Croissant,Food,16,56.00
+2026-01-12,Riverside,Bagel,Food,13,38.35
+2026-01-12,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-01-12,Airport,Latte,Drinks,45,213.75
+2026-01-12,Airport,Cold brew,Drinks,10,42.50
+2026-01-12,Airport,Croissant,Food,29,101.50
+2026-01-12,Airport,Bagel,Food,20,59.00
+2026-01-12,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-01-13,Downtown,Latte,Drinks,42,199.50
+2026-01-13,Downtown,Cold brew,Drinks,9,38.25
+2026-01-13,Downtown,Croissant,Food,27,94.50
+2026-01-13,Downtown,Bagel,Food,13,38.35
+2026-01-13,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-01-13,Riverside,Latte,Drinks,27,128.25
+2026-01-13,Riverside,Cold brew,Drinks,7,29.75
+2026-01-13,Riverside,Croissant,Food,15,52.50
+2026-01-13,Riverside,Bagel,Food,10,29.50
+2026-01-13,Riverside,Coffee beans (1 lb),Retail,2,30.00
+2026-01-13,Airport,Latte,Drinks,50,237.50
+2026-01-13,Airport,Cold brew,Drinks,10,42.50
+2026-01-13,Airport,Croissant,Food,27,94.50
+2026-01-13,Airport,Bagel,Food,24,70.80
+2026-01-13,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-01-14,Downtown,Latte,Drinks,44,209.00
+2026-01-14,Downtown,Cold brew,Drinks,9,38.25
+2026-01-14,Downtown,Croissant,Food,18,63.00
+2026-01-14,Downtown,Bagel,Food,18,53.10
+2026-01-14,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-01-14,Riverside,Latte,Drinks,34,161.50
+2026-01-14,Riverside,Cold brew,Drinks,7,29.75
+2026-01-14,Riverside,Croissant,Food,19,66.50
+2026-01-14,Riverside,Bagel,Food,10,29.50
+2026-01-14,Riverside,Coffee beans (1 lb),Retail,2,30.00
+2026-01-14,Airport,Latte,Drinks,46,218.50
+2026-01-14,Airport,Cold brew,Drinks,11,46.75
+2026-01-14,Airport,Croissant,Food,25,87.50
+2026-01-14,Airport,Bagel,Food,20,59.00
+2026-01-14,Airport,Coffee beans (1 lb),Retail,5,75.00
+2026-01-15,Downtown,Latte,Drinks,35,166.25
+2026-01-15,Downtown,Cold brew,Drinks,9,38.25
+2026-01-15,Downtown,Croissant,Food,22,77.00
+2026-01-15,Downtown,Bagel,Food,15,44.25
+2026-01-15,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-01-15,Riverside,Latte,Drinks,35,166.25
+2026-01-15,Riverside,Cold brew,Drinks,7,29.75
+2026-01-15,Riverside,Croissant,Food,18,63.00
+2026-01-15,Riverside,Bagel,Food,10,29.50
+2026-01-15,Riverside,Coffee beans (1 lb),Retail,2,30.00
+2026-01-15,Airport,Latte,Drinks,62,294.50
+2026-01-15,Airport,Cold brew,Drinks,12,51.00
+2026-01-15,Airport,Croissant,Food,31,108.50
+2026-01-15,Airport,Bagel,Food,23,67.85
+2026-01-15,Airport,Coffee beans (1 lb),Retail,3,45.00
+2026-01-16,Downtown,Latte,Drinks,40,190.00
+2026-01-16,Downtown,Cold brew,Drinks,9,38.25
+2026-01-16,Downtown,Croissant,Food,25,87.50
+2026-01-16,Downtown,Bagel,Food,13,38.35
+2026-01-16,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-01-16,Riverside,Latte,Drinks,24,114.00
+2026-01-16,Riverside,Cold brew,Drinks,6,25.50
+2026-01-16,Riverside,Croissant,Food,17,59.50
+2026-01-16,Riverside,Bagel,Food,12,35.40
+2026-01-16,Riverside,Coffee beans (1 lb),Retail,2,30.00
+2026-01-16,Airport,Latte,Drinks,44,209.00
+2026-01-16,Airport,Cold brew,Drinks,13,55.25
+2026-01-16,Airport,Croissant,Food,27,94.50
+2026-01-16,Airport,Bagel,Food,21,61.95
+2026-01-16,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-01-17,Downtown,Latte,Drinks,47,223.25
+2026-01-17,Downtown,Cold brew,Drinks,11,46.75
+2026-01-17,Downtown,Croissant,Food,28,98.00
+2026-01-17,Downtown,Bagel,Food,22,64.90
+2026-01-17,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-01-17,Riverside,Latte,Drinks,39,185.25
+2026-01-17,Riverside,Cold brew,Drinks,7,29.75
+2026-01-17,Riverside,Croissant,Food,20,70.00
+2026-01-17,Riverside,Bagel,Food,15,44.25
+2026-01-17,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-01-17,Airport,Latte,Drinks,60,285.00
+2026-01-17,Airport,Cold brew,Drinks,16,68.00
+2026-01-17,Airport,Croissant,Food,31,108.50
+2026-01-17,Airport,Bagel,Food,25,73.75
+2026-01-17,Airport,Coffee beans (1 lb),Retail,6,90.00
+2026-01-18,Downtown,Latte,Drinks,58,275.50
+2026-01-18,Downtown,Cold brew,Drinks,9,38.25
+2026-01-18,Downtown,Croissant,Food,25,87.50
+2026-01-18,Downtown,Bagel,Food,17,50.15
+2026-01-18,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-01-18,Riverside,Latte,Drinks,42,199.50
+2026-01-18,Riverside,Cold brew,Drinks,9,38.25
+2026-01-18,Riverside,Croissant,Food,20,70.00
+2026-01-18,Riverside,Bagel,Food,12,35.40
+2026-01-18,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-01-18,Airport,Latte,Drinks,71,337.25
+2026-01-18,Airport,Cold brew,Drinks,15,63.75
+2026-01-18,Airport,Croissant,Food,45,157.50
+2026-01-18,Airport,Bagel,Food,27,79.65
+2026-01-18,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-01-19,Downtown,Latte,Drinks,44,209.00
+2026-01-19,Downtown,Cold brew,Drinks,8,34.00
+2026-01-19,Downtown,Croissant,Food,24,84.00
+2026-01-19,Downtown,Bagel,Food,18,53.10
+2026-01-19,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-01-19,Riverside,Latte,Drinks,25,118.75
+2026-01-19,Riverside,Cold brew,Drinks,5,21.25
+2026-01-19,Riverside,Croissant,Food,17,59.50
+2026-01-19,Riverside,Bagel,Food,10,29.50
+2026-01-19,Riverside,Coffee beans (1 lb),Retail,2,30.00
+2026-01-19,Airport,Latte,Drinks,57,270.75
+2026-01-19,Airport,Cold brew,Drinks,10,42.50
+2026-01-19,Airport,Croissant,Food,32,112.00
+2026-01-19,Airport,Bagel,Food,19,56.05
+2026-01-19,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-01-20,Downtown,Latte,Drinks,45,213.75
+2026-01-20,Downtown,Cold brew,Drinks,10,42.50
+2026-01-20,Downtown,Croissant,Food,19,66.50
+2026-01-20,Downtown,Bagel,Food,15,44.25
+2026-01-20,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-01-20,Riverside,Latte,Drinks,23,109.25
+2026-01-20,Riverside,Cold brew,Drinks,7,29.75
+2026-01-20,Riverside,Croissant,Food,18,63.00
+2026-01-20,Riverside,Bagel,Food,10,29.50
+2026-01-20,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-01-20,Airport,Latte,Drinks,53,251.75
+2026-01-20,Airport,Cold brew,Drinks,11,46.75
+2026-01-20,Airport,Croissant,Food,24,84.00
+2026-01-20,Airport,Bagel,Food,17,50.15
+2026-01-20,Airport,Coffee beans (1 lb),Retail,5,75.00
+2026-01-21,Downtown,Latte,Drinks,45,213.75
+2026-01-21,Downtown,Cold brew,Drinks,9,38.25
+2026-01-21,Downtown,Croissant,Food,25,87.50
+2026-01-21,Downtown,Bagel,Food,16,47.20
+2026-01-21,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-01-21,Riverside,Latte,Drinks,25,118.75
+2026-01-21,Riverside,Cold brew,Drinks,6,25.50
+2026-01-21,Riverside,Croissant,Food,20,70.00
+2026-01-21,Riverside,Bagel,Food,13,38.35
+2026-01-21,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-01-21,Airport,Latte,Drinks,61,289.75
+2026-01-21,Airport,Cold brew,Drinks,10,42.50
+2026-01-21,Airport,Croissant,Food,27,94.50
+2026-01-21,Airport,Bagel,Food,17,50.15
+2026-01-21,Airport,Coffee beans (1 lb),Retail,5,75.00
+2026-01-22,Downtown,Latte,Drinks,45,213.75
+2026-01-22,Downtown,Cold brew,Drinks,8,34.00
+2026-01-22,Downtown,Croissant,Food,24,84.00
+2026-01-22,Downtown,Bagel,Food,13,38.35
+2026-01-22,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-01-22,Riverside,Latte,Drinks,33,156.75
+2026-01-22,Riverside,Cold brew,Drinks,8,34.00
+2026-01-22,Riverside,Croissant,Food,19,66.50
+2026-01-22,Riverside,Bagel,Food,13,38.35
+2026-01-22,Riverside,Coffee beans (1 lb),Retail,2,30.00
+2026-01-22,Airport,Latte,Drinks,57,270.75
+2026-01-22,Airport,Cold brew,Drinks,11,46.75
+2026-01-22,Airport,Croissant,Food,36,126.00
+2026-01-22,Airport,Bagel,Food,23,67.85
+2026-01-22,Airport,Coffee beans (1 lb),Retail,5,75.00
+2026-01-23,Downtown,Latte,Drinks,44,209.00
+2026-01-23,Downtown,Cold brew,Drinks,8,34.00
+2026-01-23,Downtown,Croissant,Food,25,87.50
+2026-01-23,Downtown,Bagel,Food,13,38.35
+2026-01-23,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-01-23,Riverside,Latte,Drinks,33,156.75
+2026-01-23,Riverside,Cold brew,Drinks,6,25.50
+2026-01-23,Riverside,Croissant,Food,19,66.50
+2026-01-23,Riverside,Bagel,Food,11,32.45
+2026-01-23,Riverside,Coffee beans (1 lb),Retail,2,30.00
+2026-01-23,Airport,Latte,Drinks,59,280.25
+2026-01-23,Airport,Cold brew,Drinks,10,42.50
+2026-01-23,Airport,Croissant,Food,25,87.50
+2026-01-23,Airport,Bagel,Food,18,53.10
+2026-01-23,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-01-24,Downtown,Latte,Drinks,56,266.00
+2026-01-24,Downtown,Cold brew,Drinks,13,55.25
+2026-01-24,Downtown,Croissant,Food,26,91.00
+2026-01-24,Downtown,Bagel,Food,20,59.00
+2026-01-24,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-01-24,Riverside,Latte,Drinks,43,204.25
+2026-01-24,Riverside,Cold brew,Drinks,8,34.00
+2026-01-24,Riverside,Croissant,Food,25,87.50
+2026-01-24,Riverside,Bagel,Food,12,35.40
+2026-01-24,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-01-24,Airport,Latte,Drinks,57,270.75
+2026-01-24,Airport,Cold brew,Drinks,17,72.25
+2026-01-24,Airport,Croissant,Food,34,119.00
+2026-01-24,Airport,Bagel,Food,22,64.90
+2026-01-24,Airport,Coffee beans (1 lb),Retail,5,75.00
+2026-01-25,Downtown,Latte,Drinks,53,251.75
+2026-01-25,Downtown,Cold brew,Drinks,10,42.50
+2026-01-25,Downtown,Croissant,Food,29,101.50
+2026-01-25,Downtown,Bagel,Food,19,56.05
+2026-01-25,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-01-25,Riverside,Latte,Drinks,38,180.50
+2026-01-25,Riverside,Cold brew,Drinks,7,29.75
+2026-01-25,Riverside,Croissant,Food,23,80.50
+2026-01-25,Riverside,Bagel,Food,12,35.40
+2026-01-25,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-01-25,Airport,Latte,Drinks,67,318.25
+2026-01-25,Airport,Cold brew,Drinks,16,68.00
+2026-01-25,Airport,Croissant,Food,42,147.00
+2026-01-25,Airport,Bagel,Food,28,82.60
+2026-01-25,Airport,Coffee beans (1 lb),Retail,5,75.00
+2026-01-26,Downtown,Latte,Drinks,32,152.00
+2026-01-26,Downtown,Cold brew,Drinks,9,38.25
+2026-01-26,Downtown,Croissant,Food,21,73.50
+2026-01-26,Downtown,Bagel,Food,14,41.30
+2026-01-26,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-01-26,Riverside,Latte,Drinks,32,152.00
+2026-01-26,Riverside,Cold brew,Drinks,6,25.50
+2026-01-26,Riverside,Croissant,Food,16,56.00
+2026-01-26,Riverside,Bagel,Food,11,32.45
+2026-01-26,Riverside,Coffee beans (1 lb),Retail,2,30.00
+2026-01-26,Airport,Latte,Drinks,48,228.00
+2026-01-26,Airport,Cold brew,Drinks,10,42.50
+2026-01-26,Airport,Croissant,Food,29,101.50
+2026-01-26,Airport,Bagel,Food,24,70.80
+2026-01-26,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-01-27,Downtown,Latte,Drinks,45,213.75
+2026-01-27,Downtown,Cold brew,Drinks,9,38.25
+2026-01-27,Downtown,Croissant,Food,21,73.50
+2026-01-27,Downtown,Bagel,Food,16,47.20
+2026-01-27,Downtown,Coffee beans (1 lb),Retail,2,30.00
+2026-01-27,Riverside,Latte,Drinks,27,128.25
+2026-01-27,Riverside,Cold brew,Drinks,6,25.50
+2026-01-27,Riverside,Croissant,Food,17,59.50
+2026-01-27,Riverside,Bagel,Food,12,35.40
+2026-01-27,Riverside,Coffee beans (1 lb),Retail,2,30.00
+2026-01-27,Airport,Latte,Drinks,51,242.25
+2026-01-27,Airport,Cold brew,Drinks,10,42.50
+2026-01-27,Airport,Croissant,Food,30,105.00
+2026-01-27,Airport,Bagel,Food,24,70.80
+2026-01-27,Airport,Coffee beans (1 lb),Retail,5,75.00
+2026-01-28,Downtown,Latte,Drinks,34,161.50
+2026-01-28,Downtown,Cold brew,Drinks,7,29.75
+2026-01-28,Downtown,Croissant,Food,23,80.50
+2026-01-28,Downtown,Bagel,Food,16,47.20
+2026-01-28,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-01-28,Riverside,Latte,Drinks,33,156.75
+2026-01-28,Riverside,Cold brew,Drinks,7,29.75
+2026-01-28,Riverside,Croissant,Food,18,63.00
+2026-01-28,Riverside,Bagel,Food,10,29.50
+2026-01-28,Riverside,Coffee beans (1 lb),Retail,2,30.00
+2026-01-28,Airport,Latte,Drinks,43,204.25
+2026-01-28,Airport,Cold brew,Drinks,10,42.50
+2026-01-28,Airport,Croissant,Food,30,105.00
+2026-01-28,Airport,Bagel,Food,24,70.80
+2026-01-28,Airport,Coffee beans (1 lb),Retail,3,45.00
+2026-01-29,Downtown,Latte,Drinks,38,180.50
+2026-01-29,Downtown,Cold brew,Drinks,9,38.25
+2026-01-29,Downtown,Croissant,Food,20,70.00
+2026-01-29,Downtown,Bagel,Food,17,50.15
+2026-01-29,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-01-29,Riverside,Latte,Drinks,26,123.50
+2026-01-29,Riverside,Cold brew,Drinks,7,29.75
+2026-01-29,Riverside,Croissant,Food,14,49.00
+2026-01-29,Riverside,Bagel,Food,13,38.35
+2026-01-29,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-01-29,Airport,Latte,Drinks,44,209.00
+2026-01-29,Airport,Cold brew,Drinks,11,46.75
+2026-01-29,Airport,Croissant,Food,27,94.50
+2026-01-29,Airport,Bagel,Food,25,73.75
+2026-01-29,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-01-30,Downtown,Latte,Drinks,32,152.00
+2026-01-30,Downtown,Cold brew,Drinks,8,34.00
+2026-01-30,Downtown,Croissant,Food,26,91.00
+2026-01-30,Downtown,Bagel,Food,15,44.25
+2026-01-30,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-01-30,Riverside,Latte,Drinks,31,147.25
+2026-01-30,Riverside,Cold brew,Drinks,8,34.00
+2026-01-30,Riverside,Croissant,Food,18,63.00
+2026-01-30,Riverside,Bagel,Food,14,41.30
+2026-01-30,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-01-30,Airport,Latte,Drinks,55,261.25
+2026-01-30,Airport,Cold brew,Drinks,13,55.25
+2026-01-30,Airport,Croissant,Food,31,108.50
+2026-01-30,Airport,Bagel,Food,24,70.80
+2026-01-30,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-01-31,Downtown,Latte,Drinks,57,270.75
+2026-01-31,Downtown,Cold brew,Drinks,12,51.00
+2026-01-31,Downtown,Croissant,Food,28,98.00
+2026-01-31,Downtown,Bagel,Food,17,50.15
+2026-01-31,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-01-31,Riverside,Latte,Drinks,39,185.25
+2026-01-31,Riverside,Cold brew,Drinks,9,38.25
+2026-01-31,Riverside,Croissant,Food,21,73.50
+2026-01-31,Riverside,Bagel,Food,15,44.25
+2026-01-31,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-01-31,Airport,Latte,Drinks,55,261.25
+2026-01-31,Airport,Cold brew,Drinks,13,55.25
+2026-01-31,Airport,Croissant,Food,35,122.50
+2026-01-31,Airport,Bagel,Food,24,70.80
+2026-01-31,Airport,Coffee beans (1 lb),Retail,5,75.00
+2026-02-01,Downtown,Latte,Drinks,42,199.50
+2026-02-01,Downtown,Cold brew,Drinks,14,59.50
+2026-02-01,Downtown,Croissant,Food,31,108.50
+2026-02-01,Downtown,Bagel,Food,21,61.95
+2026-02-01,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-02-01,Riverside,Latte,Drinks,35,166.25
+2026-02-01,Riverside,Cold brew,Drinks,12,51.00
+2026-02-01,Riverside,Croissant,Food,21,73.50
+2026-02-01,Riverside,Bagel,Food,13,38.35
+2026-02-01,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-02-01,Airport,Latte,Drinks,77,365.75
+2026-02-01,Airport,Cold brew,Drinks,22,93.50
+2026-02-01,Airport,Croissant,Food,41,143.50
+2026-02-01,Airport,Bagel,Food,30,88.50
+2026-02-01,Airport,Coffee beans (1 lb),Retail,6,90.00
+2026-02-02,Downtown,Latte,Drinks,37,175.75
+2026-02-02,Downtown,Cold brew,Drinks,10,42.50
+2026-02-02,Downtown,Croissant,Food,21,73.50
+2026-02-02,Downtown,Bagel,Food,17,50.15
+2026-02-02,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-02-02,Riverside,Latte,Drinks,35,166.25
+2026-02-02,Riverside,Cold brew,Drinks,9,38.25
+2026-02-02,Riverside,Croissant,Food,19,66.50
+2026-02-02,Riverside,Bagel,Food,12,35.40
+2026-02-02,Riverside,Coffee beans (1 lb),Retail,2,30.00
+2026-02-02,Airport,Latte,Drinks,47,223.25
+2026-02-02,Airport,Cold brew,Drinks,15,63.75
+2026-02-02,Airport,Croissant,Food,30,105.00
+2026-02-02,Airport,Bagel,Food,17,50.15
+2026-02-02,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-02-03,Downtown,Latte,Drinks,42,199.50
+2026-02-03,Downtown,Cold brew,Drinks,12,51.00
+2026-02-03,Downtown,Croissant,Food,20,70.00
+2026-02-03,Downtown,Bagel,Food,15,44.25
+2026-02-03,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-02-03,Riverside,Latte,Drinks,31,147.25
+2026-02-03,Riverside,Cold brew,Drinks,8,34.00
+2026-02-03,Riverside,Croissant,Food,16,56.00
+2026-02-03,Riverside,Bagel,Food,12,35.40
+2026-02-03,Riverside,Coffee beans (1 lb),Retail,2,30.00
+2026-02-03,Airport,Latte,Drinks,56,266.00
+2026-02-03,Airport,Cold brew,Drinks,15,63.75
+2026-02-03,Airport,Croissant,Food,30,105.00
+2026-02-03,Airport,Bagel,Food,17,50.15
+2026-02-03,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-02-04,Downtown,Latte,Drinks,35,166.25
+2026-02-04,Downtown,Cold brew,Drinks,12,51.00
+2026-02-04,Downtown,Croissant,Food,25,87.50
+2026-02-04,Downtown,Bagel,Food,15,44.25
+2026-02-04,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-02-04,Riverside,Latte,Drinks,33,156.75
+2026-02-04,Riverside,Cold brew,Drinks,9,38.25
+2026-02-04,Riverside,Croissant,Food,14,49.00
+2026-02-04,Riverside,Bagel,Food,9,26.55
+2026-02-04,Riverside,Coffee beans (1 lb),Retail,2,30.00
+2026-02-04,Airport,Latte,Drinks,64,304.00
+2026-02-04,Airport,Cold brew,Drinks,16,68.00
+2026-02-04,Airport,Croissant,Food,33,115.50
+2026-02-04,Airport,Bagel,Food,23,67.85
+2026-02-04,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-02-05,Downtown,Latte,Drinks,43,204.25
+2026-02-05,Downtown,Cold brew,Drinks,15,63.75
+2026-02-05,Downtown,Croissant,Food,20,70.00
+2026-02-05,Downtown,Bagel,Food,13,38.35
+2026-02-05,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-02-05,Riverside,Latte,Drinks,25,118.75
+2026-02-05,Riverside,Cold brew,Drinks,10,42.50
+2026-02-05,Riverside,Croissant,Food,18,63.00
+2026-02-05,Riverside,Bagel,Food,10,29.50
+2026-02-05,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-02-05,Airport,Latte,Drinks,59,280.25
+2026-02-05,Airport,Cold brew,Drinks,15,63.75
+2026-02-05,Airport,Croissant,Food,32,112.00
+2026-02-05,Airport,Bagel,Food,23,67.85
+2026-02-05,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-02-06,Downtown,Latte,Drinks,44,209.00
+2026-02-06,Downtown,Cold brew,Drinks,15,63.75
+2026-02-06,Downtown,Croissant,Food,19,66.50
+2026-02-06,Downtown,Bagel,Food,13,38.35
+2026-02-06,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-02-06,Riverside,Latte,Drinks,32,152.00
+2026-02-06,Riverside,Cold brew,Drinks,11,46.75
+2026-02-06,Riverside,Croissant,Food,16,56.00
+2026-02-06,Riverside,Bagel,Food,13,38.35
+2026-02-06,Riverside,Coffee beans (1 lb),Retail,2,30.00
+2026-02-06,Airport,Latte,Drinks,57,270.75
+2026-02-06,Airport,Cold brew,Drinks,18,76.50
+2026-02-06,Airport,Croissant,Food,26,91.00
+2026-02-06,Airport,Bagel,Food,23,67.85
+2026-02-06,Airport,Coffee beans (1 lb),Retail,5,75.00
+2026-02-07,Downtown,Latte,Drinks,51,242.25
+2026-02-07,Downtown,Cold brew,Drinks,14,59.50
+2026-02-07,Downtown,Croissant,Food,34,119.00
+2026-02-07,Downtown,Bagel,Food,22,64.90
+2026-02-07,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-02-07,Riverside,Latte,Drinks,36,171.00
+2026-02-07,Riverside,Cold brew,Drinks,11,46.75
+2026-02-07,Riverside,Croissant,Food,21,73.50
+2026-02-07,Riverside,Bagel,Food,14,41.30
+2026-02-07,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-02-07,Airport,Latte,Drinks,75,356.25
+2026-02-07,Airport,Cold brew,Drinks,18,76.50
+2026-02-07,Airport,Croissant,Food,46,161.00
+2026-02-07,Airport,Bagel,Food,28,82.60
+2026-02-07,Airport,Coffee beans (1 lb),Retail,6,90.00
+2026-02-08,Downtown,Latte,Drinks,53,251.75
+2026-02-08,Downtown,Cold brew,Drinks,16,68.00
+2026-02-08,Downtown,Croissant,Food,31,108.50
+2026-02-08,Downtown,Bagel,Food,23,67.85
+2026-02-08,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-02-08,Riverside,Latte,Drinks,42,199.50
+2026-02-08,Riverside,Cold brew,Drinks,12,51.00
+2026-02-08,Riverside,Croissant,Food,21,73.50
+2026-02-08,Riverside,Bagel,Food,14,41.30
+2026-02-08,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-02-08,Airport,Latte,Drinks,60,285.00
+2026-02-08,Airport,Cold brew,Drinks,25,106.25
+2026-02-08,Airport,Croissant,Food,44,154.00
+2026-02-08,Airport,Bagel,Food,22,64.90
+2026-02-08,Airport,Coffee beans (1 lb),Retail,6,90.00
+2026-02-09,Downtown,Latte,Drinks,35,166.25
+2026-02-09,Downtown,Cold brew,Drinks,13,55.25
+2026-02-09,Downtown,Croissant,Food,24,84.00
+2026-02-09,Downtown,Bagel,Food,15,44.25
+2026-02-09,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-02-09,Riverside,Latte,Drinks,34,161.50
+2026-02-09,Riverside,Cold brew,Drinks,8,34.00
+2026-02-09,Riverside,Croissant,Food,15,52.50
+2026-02-09,Riverside,Bagel,Food,13,38.35
+2026-02-09,Riverside,Coffee beans (1 lb),Retail,2,30.00
+2026-02-09,Airport,Latte,Drinks,61,289.75
+2026-02-09,Airport,Cold brew,Drinks,19,80.75
+2026-02-09,Airport,Croissant,Food,28,98.00
+2026-02-09,Airport,Bagel,Food,17,50.15
+2026-02-09,Airport,Coffee beans (1 lb),Retail,5,75.00
+2026-02-10,Downtown,Latte,Drinks,33,156.75
+2026-02-10,Downtown,Cold brew,Drinks,14,59.50
+2026-02-10,Downtown,Croissant,Food,23,80.50
+2026-02-10,Downtown,Bagel,Food,17,50.15
+2026-02-10,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-02-10,Riverside,Latte,Drinks,31,147.25
+2026-02-10,Riverside,Cold brew,Drinks,10,42.50
+2026-02-10,Riverside,Croissant,Food,19,66.50
+2026-02-10,Riverside,Bagel,Food,10,29.50
+2026-02-10,Riverside,Coffee beans (1 lb),Retail,2,30.00
+2026-02-10,Airport,Latte,Drinks,57,270.75
+2026-02-10,Airport,Cold brew,Drinks,16,68.00
+2026-02-10,Airport,Croissant,Food,32,112.00
+2026-02-10,Airport,Bagel,Food,21,61.95
+2026-02-10,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-02-11,Downtown,Latte,Drinks,38,180.50
+2026-02-11,Downtown,Cold brew,Drinks,14,59.50
+2026-02-11,Downtown,Croissant,Food,21,73.50
+2026-02-11,Downtown,Bagel,Food,17,50.15
+2026-02-11,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-02-11,Riverside,Latte,Drinks,27,128.25
+2026-02-11,Riverside,Cold brew,Drinks,8,34.00
+2026-02-11,Riverside,Croissant,Food,15,52.50
+2026-02-11,Riverside,Bagel,Food,10,29.50
+2026-02-11,Riverside,Coffee beans (1 lb),Retail,2,30.00
+2026-02-11,Airport,Latte,Drinks,59,280.25
+2026-02-11,Airport,Cold brew,Drinks,15,63.75
+2026-02-11,Airport,Croissant,Food,27,94.50
+2026-02-11,Airport,Bagel,Food,21,61.95
+2026-02-11,Airport,Coffee beans (1 lb),Retail,5,75.00
+2026-02-12,Downtown,Latte,Drinks,47,223.25
+2026-02-12,Downtown,Cold brew,Drinks,13,55.25
+2026-02-12,Downtown,Croissant,Food,21,73.50
+2026-02-12,Downtown,Bagel,Food,13,38.35
+2026-02-12,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-02-12,Riverside,Latte,Drinks,26,123.50
+2026-02-12,Riverside,Cold brew,Drinks,8,34.00
+2026-02-12,Riverside,Croissant,Food,14,49.00
+2026-02-12,Riverside,Bagel,Food,12,35.40
+2026-02-12,Riverside,Coffee beans (1 lb),Retail,2,30.00
+2026-02-12,Airport,Latte,Drinks,64,304.00
+2026-02-12,Airport,Cold brew,Drinks,18,76.50
+2026-02-12,Airport,Croissant,Food,33,115.50
+2026-02-12,Airport,Bagel,Food,18,53.10
+2026-02-12,Airport,Coffee beans (1 lb),Retail,5,75.00
+2026-02-13,Downtown,Latte,Drinks,39,185.25
+2026-02-13,Downtown,Cold brew,Drinks,15,63.75
+2026-02-13,Downtown,Croissant,Food,24,84.00
+2026-02-13,Downtown,Bagel,Food,15,44.25
+2026-02-13,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-02-13,Riverside,Latte,Drinks,26,123.50
+2026-02-13,Riverside,Cold brew,Drinks,8,34.00
+2026-02-13,Riverside,Croissant,Food,20,70.00
+2026-02-13,Riverside,Bagel,Food,12,35.40
+2026-02-13,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-02-13,Airport,Latte,Drinks,51,242.25
+2026-02-13,Airport,Cold brew,Drinks,14,59.50
+2026-02-13,Airport,Croissant,Food,33,115.50
+2026-02-13,Airport,Bagel,Food,17,50.15
+2026-02-13,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-02-14,Downtown,Latte,Drinks,51,242.25
+2026-02-14,Downtown,Cold brew,Drinks,15,63.75
+2026-02-14,Downtown,Croissant,Food,34,119.00
+2026-02-14,Downtown,Bagel,Food,17,50.15
+2026-02-14,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-02-14,Riverside,Latte,Drinks,39,185.25
+2026-02-14,Riverside,Cold brew,Drinks,13,55.25
+2026-02-14,Riverside,Croissant,Food,19,66.50
+2026-02-14,Riverside,Bagel,Food,15,44.25
+2026-02-14,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-02-14,Airport,Latte,Drinks,65,308.75
+2026-02-14,Airport,Cold brew,Drinks,25,106.25
+2026-02-14,Airport,Croissant,Food,46,161.00
+2026-02-14,Airport,Bagel,Food,24,70.80
+2026-02-14,Airport,Coffee beans (1 lb),Retail,6,90.00
+2026-02-15,Downtown,Latte,Drinks,52,247.00
+2026-02-15,Downtown,Cold brew,Drinks,18,76.50
+2026-02-15,Downtown,Croissant,Food,34,119.00
+2026-02-15,Downtown,Bagel,Food,17,50.15
+2026-02-15,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-02-15,Riverside,Latte,Drinks,40,190.00
+2026-02-15,Riverside,Cold brew,Drinks,10,42.50
+2026-02-15,Riverside,Croissant,Food,19,66.50
+2026-02-15,Riverside,Bagel,Food,12,35.40
+2026-02-15,Riverside,Coffee beans (1 lb),Retail,2,30.00
+2026-02-15,Airport,Latte,Drinks,66,313.50
+2026-02-15,Airport,Cold brew,Drinks,23,97.75
+2026-02-15,Airport,Croissant,Food,36,126.00
+2026-02-15,Airport,Bagel,Food,24,70.80
+2026-02-15,Airport,Coffee beans (1 lb),Retail,6,90.00
+2026-02-16,Downtown,Latte,Drinks,43,204.25
+2026-02-16,Downtown,Cold brew,Drinks,13,55.25
+2026-02-16,Downtown,Croissant,Food,25,87.50
+2026-02-16,Downtown,Bagel,Food,18,53.10
+2026-02-16,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-02-16,Riverside,Latte,Drinks,31,147.25
+2026-02-16,Riverside,Cold brew,Drinks,10,42.50
+2026-02-16,Riverside,Croissant,Food,20,70.00
+2026-02-16,Riverside,Bagel,Food,11,32.45
+2026-02-16,Riverside,Coffee beans (1 lb),Retail,2,30.00
+2026-02-16,Airport,Latte,Drinks,57,270.75
+2026-02-16,Airport,Cold brew,Drinks,20,85.00
+2026-02-16,Airport,Croissant,Food,35,122.50
+2026-02-16,Airport,Bagel,Food,18,53.10
+2026-02-16,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-02-17,Downtown,Latte,Drinks,37,175.75
+2026-02-17,Downtown,Cold brew,Drinks,14,59.50
+2026-02-17,Downtown,Croissant,Food,24,84.00
+2026-02-17,Downtown,Bagel,Food,14,41.30
+2026-02-17,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-02-17,Riverside,Latte,Drinks,32,152.00
+2026-02-17,Riverside,Cold brew,Drinks,10,42.50
+2026-02-17,Riverside,Croissant,Food,20,70.00
+2026-02-17,Riverside,Bagel,Food,12,35.40
+2026-02-17,Riverside,Coffee beans (1 lb),Retail,2,30.00
+2026-02-17,Airport,Latte,Drinks,45,213.75
+2026-02-17,Airport,Cold brew,Drinks,14,59.50
+2026-02-17,Airport,Croissant,Food,30,105.00
+2026-02-17,Airport,Bagel,Food,20,59.00
+2026-02-17,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-02-18,Downtown,Latte,Drinks,33,156.75
+2026-02-18,Downtown,Cold brew,Drinks,15,63.75
+2026-02-18,Downtown,Croissant,Food,26,91.00
+2026-02-18,Downtown,Bagel,Food,16,47.20
+2026-02-18,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-02-18,Riverside,Latte,Drinks,36,171.00
+2026-02-18,Riverside,Cold brew,Drinks,10,42.50
+2026-02-18,Riverside,Croissant,Food,16,56.00
+2026-02-18,Riverside,Bagel,Food,10,29.50
+2026-02-18,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-02-18,Airport,Latte,Drinks,53,251.75
+2026-02-18,Airport,Cold brew,Drinks,18,76.50
+2026-02-18,Airport,Croissant,Food,36,126.00
+2026-02-18,Airport,Bagel,Food,19,56.05
+2026-02-18,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-02-19,Downtown,Latte,Drinks,42,199.50
+2026-02-19,Downtown,Cold brew,Drinks,13,55.25
+2026-02-19,Downtown,Croissant,Food,19,66.50
+2026-02-19,Downtown,Bagel,Food,15,44.25
+2026-02-19,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-02-19,Riverside,Latte,Drinks,32,152.00
+2026-02-19,Riverside,Cold brew,Drinks,11,46.75
+2026-02-19,Riverside,Croissant,Food,16,56.00
+2026-02-19,Riverside,Bagel,Food,13,38.35
+2026-02-19,Riverside,Coffee beans (1 lb),Retail,2,30.00
+2026-02-19,Airport,Latte,Drinks,63,299.25
+2026-02-19,Airport,Cold brew,Drinks,20,85.00
+2026-02-19,Airport,Croissant,Food,32,112.00
+2026-02-19,Airport,Bagel,Food,21,61.95
+2026-02-19,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-02-20,Downtown,Latte,Drinks,37,175.75
+2026-02-20,Downtown,Cold brew,Drinks,15,63.75
+2026-02-20,Downtown,Croissant,Food,22,77.00
+2026-02-20,Downtown,Bagel,Food,16,47.20
+2026-02-20,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-02-20,Riverside,Latte,Drinks,32,152.00
+2026-02-20,Riverside,Cold brew,Drinks,10,42.50
+2026-02-20,Riverside,Croissant,Food,17,59.50
+2026-02-20,Riverside,Bagel,Food,10,29.50
+2026-02-20,Riverside,Coffee beans (1 lb),Retail,2,30.00
+2026-02-20,Airport,Latte,Drinks,59,280.25
+2026-02-20,Airport,Cold brew,Drinks,18,76.50
+2026-02-20,Airport,Croissant,Food,34,119.00
+2026-02-20,Airport,Bagel,Food,19,56.05
+2026-02-20,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-02-21,Downtown,Latte,Drinks,58,275.50
+2026-02-21,Downtown,Cold brew,Drinks,16,68.00
+2026-02-21,Downtown,Croissant,Food,31,108.50
+2026-02-21,Downtown,Bagel,Food,17,50.15
+2026-02-21,Downtown,Coffee beans (1 lb),Retail,5,75.00
+2026-02-21,Riverside,Latte,Drinks,39,185.25
+2026-02-21,Riverside,Cold brew,Drinks,11,46.75
+2026-02-21,Riverside,Croissant,Food,19,66.50
+2026-02-21,Riverside,Bagel,Food,15,44.25
+2026-02-21,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-02-21,Airport,Latte,Drinks,56,266.00
+2026-02-21,Airport,Cold brew,Drinks,26,110.50
+2026-02-21,Airport,Croissant,Food,45,157.50
+2026-02-21,Airport,Bagel,Food,26,76.70
+2026-02-21,Airport,Coffee beans (1 lb),Retail,5,75.00
+2026-02-22,Downtown,Latte,Drinks,57,270.75
+2026-02-22,Downtown,Cold brew,Drinks,16,68.00
+2026-02-22,Downtown,Croissant,Food,31,108.50
+2026-02-22,Downtown,Bagel,Food,20,59.00
+2026-02-22,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-02-22,Riverside,Latte,Drinks,42,199.50
+2026-02-22,Riverside,Cold brew,Drinks,14,59.50
+2026-02-22,Riverside,Croissant,Food,19,66.50
+2026-02-22,Riverside,Bagel,Food,15,44.25
+2026-02-22,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-02-22,Airport,Latte,Drinks,79,375.25
+2026-02-22,Airport,Cold brew,Drinks,22,93.50
+2026-02-22,Airport,Croissant,Food,45,157.50
+2026-02-22,Airport,Bagel,Food,30,88.50
+2026-02-22,Airport,Coffee beans (1 lb),Retail,5,75.00
+2026-02-23,Downtown,Latte,Drinks,45,213.75
+2026-02-23,Downtown,Cold brew,Drinks,13,55.25
+2026-02-23,Downtown,Croissant,Food,27,94.50
+2026-02-23,Downtown,Bagel,Food,16,47.20
+2026-02-23,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-02-23,Riverside,Latte,Drinks,27,128.25
+2026-02-23,Riverside,Cold brew,Drinks,9,38.25
+2026-02-23,Riverside,Croissant,Food,18,63.00
+2026-02-23,Riverside,Bagel,Food,14,41.30
+2026-02-23,Riverside,Coffee beans (1 lb),Retail,2,30.00
+2026-02-23,Airport,Latte,Drinks,46,218.50
+2026-02-23,Airport,Cold brew,Drinks,18,76.50
+2026-02-23,Airport,Croissant,Food,29,101.50
+2026-02-23,Airport,Bagel,Food,22,64.90
+2026-02-23,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-02-24,Downtown,Latte,Drinks,39,185.25
+2026-02-24,Downtown,Cold brew,Drinks,12,51.00
+2026-02-24,Downtown,Croissant,Food,20,70.00
+2026-02-24,Downtown,Bagel,Food,17,50.15
+2026-02-24,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-02-24,Riverside,Latte,Drinks,27,128.25
+2026-02-24,Riverside,Cold brew,Drinks,11,46.75
+2026-02-24,Riverside,Croissant,Food,14,49.00
+2026-02-24,Riverside,Bagel,Food,13,38.35
+2026-02-24,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-02-24,Airport,Latte,Drinks,61,289.75
+2026-02-24,Airport,Cold brew,Drinks,17,72.25
+2026-02-24,Airport,Croissant,Food,33,115.50
+2026-02-24,Airport,Bagel,Food,24,70.80
+2026-02-24,Airport,Coffee beans (1 lb),Retail,5,75.00
+2026-02-25,Downtown,Latte,Drinks,40,190.00
+2026-02-25,Downtown,Cold brew,Drinks,11,46.75
+2026-02-25,Downtown,Croissant,Food,23,80.50
+2026-02-25,Downtown,Bagel,Food,16,47.20
+2026-02-25,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-02-25,Riverside,Latte,Drinks,35,166.25
+2026-02-25,Riverside,Cold brew,Drinks,10,42.50
+2026-02-25,Riverside,Croissant,Food,18,63.00
+2026-02-25,Riverside,Bagel,Food,12,35.40
+2026-02-25,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-02-25,Airport,Latte,Drinks,52,247.00
+2026-02-25,Airport,Cold brew,Drinks,19,80.75
+2026-02-25,Airport,Croissant,Food,27,94.50
+2026-02-25,Airport,Bagel,Food,21,61.95
+2026-02-25,Airport,Coffee beans (1 lb),Retail,5,75.00
+2026-02-26,Downtown,Latte,Drinks,38,180.50
+2026-02-26,Downtown,Cold brew,Drinks,14,59.50
+2026-02-26,Downtown,Croissant,Food,25,87.50
+2026-02-26,Downtown,Bagel,Food,18,53.10
+2026-02-26,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-02-26,Riverside,Latte,Drinks,34,161.50
+2026-02-26,Riverside,Cold brew,Drinks,9,38.25
+2026-02-26,Riverside,Croissant,Food,16,56.00
+2026-02-26,Riverside,Bagel,Food,13,38.35
+2026-02-26,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-02-26,Airport,Latte,Drinks,62,294.50
+2026-02-26,Airport,Cold brew,Drinks,14,59.50
+2026-02-26,Airport,Croissant,Food,26,91.00
+2026-02-26,Airport,Bagel,Food,22,64.90
+2026-02-26,Airport,Coffee beans (1 lb),Retail,5,75.00
+2026-02-27,Downtown,Latte,Drinks,48,228.00
+2026-02-27,Downtown,Cold brew,Drinks,14,59.50
+2026-02-27,Downtown,Croissant,Food,23,80.50
+2026-02-27,Downtown,Bagel,Food,13,38.35
+2026-02-27,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-02-27,Riverside,Latte,Drinks,35,166.25
+2026-02-27,Riverside,Cold brew,Drinks,10,42.50
+2026-02-27,Riverside,Croissant,Food,19,66.50
+2026-02-27,Riverside,Bagel,Food,14,41.30
+2026-02-27,Riverside,Coffee beans (1 lb),Retail,2,30.00
+2026-02-27,Airport,Latte,Drinks,61,289.75
+2026-02-27,Airport,Cold brew,Drinks,16,68.00
+2026-02-27,Airport,Croissant,Food,30,105.00
+2026-02-27,Airport,Bagel,Food,18,53.10
+2026-02-27,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-02-28,Downtown,Latte,Drinks,52,247.00
+2026-02-28,Downtown,Cold brew,Drinks,18,76.50
+2026-02-28,Downtown,Croissant,Food,25,87.50
+2026-02-28,Downtown,Bagel,Food,16,47.20
+2026-02-28,Downtown,Coffee beans (1 lb),Retail,5,75.00
+2026-02-28,Riverside,Latte,Drinks,39,185.25
+2026-02-28,Riverside,Cold brew,Drinks,11,46.75
+2026-02-28,Riverside,Croissant,Food,25,87.50
+2026-02-28,Riverside,Bagel,Food,13,38.35
+2026-02-28,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-02-28,Airport,Latte,Drinks,61,289.75
+2026-02-28,Airport,Cold brew,Drinks,20,85.00
+2026-02-28,Airport,Croissant,Food,32,112.00
+2026-02-28,Airport,Bagel,Food,30,88.50
+2026-02-28,Airport,Coffee beans (1 lb),Retail,6,90.00
+2026-03-01,Downtown,Latte,Drinks,54,256.50
+2026-03-01,Downtown,Cold brew,Drinks,19,80.75
+2026-03-01,Downtown,Croissant,Food,28,98.00
+2026-03-01,Downtown,Bagel,Food,19,56.05
+2026-03-01,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-03-01,Riverside,Latte,Drinks,40,190.00
+2026-03-01,Riverside,Cold brew,Drinks,16,68.00
+2026-03-01,Riverside,Croissant,Food,20,70.00
+2026-03-01,Riverside,Bagel,Food,17,50.15
+2026-03-01,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-03-01,Airport,Latte,Drinks,65,308.75
+2026-03-01,Airport,Cold brew,Drinks,29,123.25
+2026-03-01,Airport,Croissant,Food,35,122.50
+2026-03-01,Airport,Bagel,Food,28,82.60
+2026-03-01,Airport,Coffee beans (1 lb),Retail,6,90.00
+2026-03-02,Downtown,Latte,Drinks,48,228.00
+2026-03-02,Downtown,Cold brew,Drinks,16,68.00
+2026-03-02,Downtown,Croissant,Food,28,98.00
+2026-03-02,Downtown,Bagel,Food,17,50.15
+2026-03-02,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-03-02,Riverside,Latte,Drinks,31,147.25
+2026-03-02,Riverside,Cold brew,Drinks,14,59.50
+2026-03-02,Riverside,Croissant,Food,19,66.50
+2026-03-02,Riverside,Bagel,Food,10,29.50
+2026-03-02,Riverside,Coffee beans (1 lb),Retail,2,30.00
+2026-03-02,Airport,Latte,Drinks,54,256.50
+2026-03-02,Airport,Cold brew,Drinks,27,114.75
+2026-03-02,Airport,Croissant,Food,29,101.50
+2026-03-02,Airport,Bagel,Food,24,70.80
+2026-03-02,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-03-03,Downtown,Latte,Drinks,38,180.50
+2026-03-03,Downtown,Cold brew,Drinks,18,76.50
+2026-03-03,Downtown,Croissant,Food,24,84.00
+2026-03-03,Downtown,Bagel,Food,17,50.15
+2026-03-03,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-03-03,Riverside,Latte,Drinks,32,152.00
+2026-03-03,Riverside,Cold brew,Drinks,15,63.75
+2026-03-03,Riverside,Croissant,Food,18,63.00
+2026-03-03,Riverside,Bagel,Food,14,41.30
+2026-03-03,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-03-03,Airport,Latte,Drinks,50,237.50
+2026-03-03,Airport,Cold brew,Drinks,23,97.75
+2026-03-03,Airport,Croissant,Food,33,115.50
+2026-03-03,Airport,Bagel,Food,23,67.85
+2026-03-03,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-03-04,Downtown,Latte,Drinks,37,175.75
+2026-03-04,Downtown,Cold brew,Drinks,19,80.75
+2026-03-04,Downtown,Croissant,Food,20,70.00
+2026-03-04,Downtown,Bagel,Food,14,41.30
+2026-03-04,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-03-04,Riverside,Latte,Drinks,36,171.00
+2026-03-04,Riverside,Cold brew,Drinks,13,55.25
+2026-03-04,Riverside,Croissant,Food,20,70.00
+2026-03-04,Riverside,Bagel,Food,14,41.30
+2026-03-04,Riverside,Coffee beans (1 lb),Retail,2,30.00
+2026-03-04,Airport,Latte,Drinks,62,294.50
+2026-03-04,Airport,Cold brew,Drinks,23,97.75
+2026-03-04,Airport,Croissant,Food,35,122.50
+2026-03-04,Airport,Bagel,Food,24,70.80
+2026-03-04,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-03-05,Downtown,Latte,Drinks,34,161.50
+2026-03-05,Downtown,Cold brew,Drinks,20,85.00
+2026-03-05,Downtown,Croissant,Food,20,70.00
+2026-03-05,Downtown,Bagel,Food,19,56.05
+2026-03-05,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-03-05,Riverside,Latte,Drinks,33,156.75
+2026-03-05,Riverside,Cold brew,Drinks,15,63.75
+2026-03-05,Riverside,Croissant,Food,21,73.50
+2026-03-05,Riverside,Bagel,Food,13,38.35
+2026-03-05,Riverside,Coffee beans (1 lb),Retail,2,30.00
+2026-03-05,Airport,Latte,Drinks,61,289.75
+2026-03-05,Airport,Cold brew,Drinks,19,80.75
+2026-03-05,Airport,Croissant,Food,32,112.00
+2026-03-05,Airport,Bagel,Food,21,61.95
+2026-03-05,Airport,Coffee beans (1 lb),Retail,5,75.00
+2026-03-06,Downtown,Latte,Drinks,43,204.25
+2026-03-06,Downtown,Cold brew,Drinks,18,76.50
+2026-03-06,Downtown,Croissant,Food,26,91.00
+2026-03-06,Downtown,Bagel,Food,19,56.05
+2026-03-06,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-03-06,Riverside,Latte,Drinks,27,128.25
+2026-03-06,Riverside,Cold brew,Drinks,10,42.50
+2026-03-06,Riverside,Croissant,Food,20,70.00
+2026-03-06,Riverside,Bagel,Food,12,35.40
+2026-03-06,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-03-06,Airport,Latte,Drinks,48,228.00
+2026-03-06,Airport,Cold brew,Drinks,19,80.75
+2026-03-06,Airport,Croissant,Food,36,126.00
+2026-03-06,Airport,Bagel,Food,25,73.75
+2026-03-06,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-03-07,Downtown,Latte,Drinks,49,232.75
+2026-03-07,Downtown,Cold brew,Drinks,18,76.50
+2026-03-07,Downtown,Croissant,Food,35,122.50
+2026-03-07,Downtown,Bagel,Food,18,53.10
+2026-03-07,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-03-07,Riverside,Latte,Drinks,32,152.00
+2026-03-07,Riverside,Cold brew,Drinks,19,80.75
+2026-03-07,Riverside,Croissant,Food,19,66.50
+2026-03-07,Riverside,Bagel,Food,15,44.25
+2026-03-07,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-03-07,Airport,Latte,Drinks,75,356.25
+2026-03-07,Airport,Cold brew,Drinks,34,144.50
+2026-03-07,Airport,Croissant,Food,38,133.00
+2026-03-07,Airport,Bagel,Food,30,88.50
+2026-03-07,Airport,Coffee beans (1 lb),Retail,5,75.00
+2026-03-08,Downtown,Latte,Drinks,49,232.75
+2026-03-08,Downtown,Cold brew,Drinks,18,76.50
+2026-03-08,Downtown,Croissant,Food,29,101.50
+2026-03-08,Downtown,Bagel,Food,19,56.05
+2026-03-08,Downtown,Coffee beans (1 lb),Retail,5,75.00
+2026-03-08,Riverside,Latte,Drinks,31,147.25
+2026-03-08,Riverside,Cold brew,Drinks,15,63.75
+2026-03-08,Riverside,Croissant,Food,21,73.50
+2026-03-08,Riverside,Bagel,Food,18,53.10
+2026-03-08,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-03-08,Airport,Latte,Drinks,57,270.75
+2026-03-08,Airport,Cold brew,Drinks,31,131.75
+2026-03-08,Airport,Croissant,Food,40,140.00
+2026-03-08,Airport,Bagel,Food,32,94.40
+2026-03-08,Airport,Coffee beans (1 lb),Retail,5,75.00
+2026-03-09,Downtown,Latte,Drinks,39,185.25
+2026-03-09,Downtown,Cold brew,Drinks,15,63.75
+2026-03-09,Downtown,Croissant,Food,20,70.00
+2026-03-09,Downtown,Bagel,Food,18,53.10
+2026-03-09,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-03-09,Riverside,Latte,Drinks,32,152.00
+2026-03-09,Riverside,Cold brew,Drinks,14,59.50
+2026-03-09,Riverside,Croissant,Food,18,63.00
+2026-03-09,Riverside,Bagel,Food,10,29.50
+2026-03-09,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-03-09,Airport,Latte,Drinks,49,232.75
+2026-03-09,Airport,Cold brew,Drinks,20,85.00
+2026-03-09,Airport,Croissant,Food,32,112.00
+2026-03-09,Airport,Bagel,Food,18,53.10
+2026-03-09,Airport,Coffee beans (1 lb),Retail,5,75.00
+2026-03-10,Downtown,Latte,Drinks,36,171.00
+2026-03-10,Downtown,Cold brew,Drinks,15,63.75
+2026-03-10,Downtown,Croissant,Food,27,94.50
+2026-03-10,Downtown,Bagel,Food,15,44.25
+2026-03-10,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-03-10,Riverside,Latte,Drinks,35,166.25
+2026-03-10,Riverside,Cold brew,Drinks,10,42.50
+2026-03-10,Riverside,Croissant,Food,20,70.00
+2026-03-10,Riverside,Bagel,Food,10,29.50
+2026-03-10,Riverside,Coffee beans (1 lb),Retail,2,30.00
+2026-03-10,Airport,Latte,Drinks,49,232.75
+2026-03-10,Airport,Cold brew,Drinks,20,85.00
+2026-03-10,Airport,Croissant,Food,34,119.00
+2026-03-10,Airport,Bagel,Food,18,53.10
+2026-03-10,Airport,Coffee beans (1 lb),Retail,3,45.00
+2026-03-11,Downtown,Latte,Drinks,45,213.75
+2026-03-11,Downtown,Cold brew,Drinks,16,68.00
+2026-03-11,Downtown,Croissant,Food,22,77.00
+2026-03-11,Downtown,Bagel,Food,14,41.30
+2026-03-11,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-03-11,Riverside,Latte,Drinks,33,156.75
+2026-03-11,Riverside,Cold brew,Drinks,13,55.25
+2026-03-11,Riverside,Croissant,Food,19,66.50
+2026-03-11,Riverside,Bagel,Food,12,35.40
+2026-03-11,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-03-11,Airport,Latte,Drinks,55,261.25
+2026-03-11,Airport,Cold brew,Drinks,20,85.00
+2026-03-11,Airport,Croissant,Food,32,112.00
+2026-03-11,Airport,Bagel,Food,25,73.75
+2026-03-11,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-03-12,Downtown,Latte,Drinks,45,213.75
+2026-03-12,Downtown,Cold brew,Drinks,20,85.00
+2026-03-12,Downtown,Croissant,Food,24,84.00
+2026-03-12,Downtown,Bagel,Food,16,47.20
+2026-03-12,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-03-12,Riverside,Latte,Drinks,25,118.75
+2026-03-12,Riverside,Cold brew,Drinks,13,55.25
+2026-03-12,Riverside,Croissant,Food,17,59.50
+2026-03-12,Riverside,Bagel,Food,13,38.35
+2026-03-12,Riverside,Coffee beans (1 lb),Retail,2,30.00
+2026-03-12,Airport,Latte,Drinks,64,304.00
+2026-03-12,Airport,Cold brew,Drinks,19,80.75
+2026-03-12,Airport,Croissant,Food,26,91.00
+2026-03-12,Airport,Bagel,Food,23,67.85
+2026-03-12,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-03-13,Downtown,Latte,Drinks,37,175.75
+2026-03-13,Downtown,Cold brew,Drinks,18,76.50
+2026-03-13,Downtown,Croissant,Food,24,84.00
+2026-03-13,Downtown,Bagel,Food,15,44.25
+2026-03-13,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-03-13,Riverside,Latte,Drinks,31,147.25
+2026-03-13,Riverside,Cold brew,Drinks,13,55.25
+2026-03-13,Riverside,Croissant,Food,18,63.00
+2026-03-13,Riverside,Bagel,Food,10,29.50
+2026-03-13,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-03-13,Airport,Latte,Drinks,63,299.25
+2026-03-13,Airport,Cold brew,Drinks,25,106.25
+2026-03-13,Airport,Croissant,Food,35,122.50
+2026-03-13,Airport,Bagel,Food,24,70.80
+2026-03-13,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-03-14,Downtown,Latte,Drinks,50,237.50
+2026-03-14,Downtown,Cold brew,Drinks,19,80.75
+2026-03-14,Downtown,Croissant,Food,28,98.00
+2026-03-14,Downtown,Bagel,Food,20,59.00
+2026-03-14,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-03-14,Riverside,Latte,Drinks,32,152.00
+2026-03-14,Riverside,Cold brew,Drinks,16,68.00
+2026-03-14,Riverside,Croissant,Food,24,84.00
+2026-03-14,Riverside,Bagel,Food,14,41.30
+2026-03-14,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-03-14,Airport,Latte,Drinks,80,380.00
+2026-03-14,Airport,Cold brew,Drinks,24,102.00
+2026-03-14,Airport,Croissant,Food,45,157.50
+2026-03-14,Airport,Bagel,Food,23,67.85
+2026-03-14,Airport,Coffee beans (1 lb),Retail,5,75.00
+2026-03-15,Downtown,Latte,Drinks,56,266.00
+2026-03-15,Downtown,Cold brew,Drinks,24,102.00
+2026-03-15,Downtown,Croissant,Food,30,105.00
+2026-03-15,Downtown,Bagel,Food,21,61.95
+2026-03-15,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-03-15,Riverside,Latte,Drinks,36,171.00
+2026-03-15,Riverside,Cold brew,Drinks,14,59.50
+2026-03-15,Riverside,Croissant,Food,21,73.50
+2026-03-15,Riverside,Bagel,Food,16,47.20
+2026-03-15,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-03-15,Airport,Latte,Drinks,79,375.25
+2026-03-15,Airport,Cold brew,Drinks,32,136.00
+2026-03-15,Airport,Croissant,Food,47,164.50
+2026-03-15,Airport,Bagel,Food,28,82.60
+2026-03-15,Airport,Coffee beans (1 lb),Retail,5,75.00
+2026-03-16,Downtown,Latte,Drinks,42,199.50
+2026-03-16,Downtown,Cold brew,Drinks,15,63.75
+2026-03-16,Downtown,Croissant,Food,25,87.50
+2026-03-16,Downtown,Bagel,Food,14,41.30
+2026-03-16,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-03-16,Riverside,Latte,Drinks,35,166.25
+2026-03-16,Riverside,Cold brew,Drinks,12,51.00
+2026-03-16,Riverside,Croissant,Food,20,70.00
+2026-03-16,Riverside,Bagel,Food,12,35.40
+2026-03-16,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-03-16,Airport,Latte,Drinks,63,299.25
+2026-03-16,Airport,Cold brew,Drinks,28,119.00
+2026-03-16,Airport,Croissant,Food,36,126.00
+2026-03-16,Airport,Bagel,Food,23,67.85
+2026-03-16,Airport,Coffee beans (1 lb),Retail,5,75.00
+2026-03-17,Downtown,Latte,Drinks,33,156.75
+2026-03-17,Downtown,Cold brew,Drinks,20,85.00
+2026-03-17,Downtown,Croissant,Food,27,94.50
+2026-03-17,Downtown,Bagel,Food,15,44.25
+2026-03-17,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-03-17,Riverside,Latte,Drinks,33,156.75
+2026-03-17,Riverside,Cold brew,Drinks,12,51.00
+2026-03-17,Riverside,Croissant,Food,17,59.50
+2026-03-17,Riverside,Bagel,Food,10,29.50
+2026-03-17,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-03-17,Airport,Latte,Drinks,57,270.75
+2026-03-17,Airport,Cold brew,Drinks,23,97.75
+2026-03-17,Airport,Croissant,Food,27,94.50
+2026-03-17,Airport,Bagel,Food,23,67.85
+2026-03-17,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-03-18,Downtown,Latte,Drinks,45,213.75
+2026-03-18,Downtown,Cold brew,Drinks,15,63.75
+2026-03-18,Downtown,Croissant,Food,23,80.50
+2026-03-18,Downtown,Bagel,Food,15,44.25
+2026-03-18,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-03-18,Riverside,Latte,Drinks,33,156.75
+2026-03-18,Riverside,Cold brew,Drinks,15,63.75
+2026-03-18,Riverside,Croissant,Food,18,63.00
+2026-03-18,Riverside,Bagel,Food,10,29.50
+2026-03-18,Riverside,Coffee beans (1 lb),Retail,2,30.00
+2026-03-18,Airport,Latte,Drinks,48,228.00
+2026-03-18,Airport,Cold brew,Drinks,25,106.25
+2026-03-18,Airport,Croissant,Food,34,119.00
+2026-03-18,Airport,Bagel,Food,20,59.00
+2026-03-18,Airport,Coffee beans (1 lb),Retail,5,75.00
+2026-03-19,Downtown,Latte,Drinks,41,194.75
+2026-03-19,Downtown,Cold brew,Drinks,17,72.25
+2026-03-19,Downtown,Croissant,Food,22,77.00
+2026-03-19,Downtown,Bagel,Food,18,53.10
+2026-03-19,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-03-19,Riverside,Latte,Drinks,30,142.50
+2026-03-19,Riverside,Cold brew,Drinks,12,51.00
+2026-03-19,Riverside,Croissant,Food,19,66.50
+2026-03-19,Riverside,Bagel,Food,12,35.40
+2026-03-19,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-03-19,Airport,Latte,Drinks,45,213.75
+2026-03-19,Airport,Cold brew,Drinks,23,97.75
+2026-03-19,Airport,Croissant,Food,33,115.50
+2026-03-19,Airport,Bagel,Food,18,53.10
+2026-03-19,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-03-20,Downtown,Latte,Drinks,36,171.00
+2026-03-20,Downtown,Cold brew,Drinks,15,63.75
+2026-03-20,Downtown,Croissant,Food,21,73.50
+2026-03-20,Downtown,Bagel,Food,15,44.25
+2026-03-20,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-03-20,Riverside,Latte,Drinks,34,161.50
+2026-03-20,Riverside,Cold brew,Drinks,11,46.75
+2026-03-20,Riverside,Croissant,Food,17,59.50
+2026-03-20,Riverside,Bagel,Food,13,38.35
+2026-03-20,Riverside,Coffee beans (1 lb),Retail,2,30.00
+2026-03-20,Airport,Latte,Drinks,63,299.25
+2026-03-20,Airport,Cold brew,Drinks,27,114.75
+2026-03-20,Airport,Croissant,Food,27,94.50
+2026-03-20,Airport,Bagel,Food,25,73.75
+2026-03-20,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-03-21,Downtown,Latte,Drinks,41,194.75
+2026-03-21,Downtown,Cold brew,Drinks,26,110.50
+2026-03-21,Downtown,Croissant,Food,34,119.00
+2026-03-21,Downtown,Bagel,Food,21,61.95
+2026-03-21,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-03-21,Riverside,Latte,Drinks,42,199.50
+2026-03-21,Riverside,Cold brew,Drinks,16,68.00
+2026-03-21,Riverside,Croissant,Food,19,66.50
+2026-03-21,Riverside,Bagel,Food,12,35.40
+2026-03-21,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-03-21,Airport,Latte,Drinks,77,365.75
+2026-03-21,Airport,Cold brew,Drinks,31,131.75
+2026-03-21,Airport,Croissant,Food,45,157.50
+2026-03-21,Airport,Bagel,Food,32,94.40
+2026-03-21,Airport,Coffee beans (1 lb),Retail,5,75.00
+2026-03-22,Downtown,Latte,Drinks,58,275.50
+2026-03-22,Downtown,Cold brew,Drinks,20,85.00
+2026-03-22,Downtown,Croissant,Food,31,108.50
+2026-03-22,Downtown,Bagel,Food,20,59.00
+2026-03-22,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-03-22,Riverside,Latte,Drinks,36,171.00
+2026-03-22,Riverside,Cold brew,Drinks,15,63.75
+2026-03-22,Riverside,Croissant,Food,21,73.50
+2026-03-22,Riverside,Bagel,Food,13,38.35
+2026-03-22,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-03-22,Airport,Latte,Drinks,59,280.25
+2026-03-22,Airport,Cold brew,Drinks,30,127.50
+2026-03-22,Airport,Croissant,Food,47,164.50
+2026-03-22,Airport,Bagel,Food,26,76.70
+2026-03-22,Airport,Coffee beans (1 lb),Retail,6,90.00
+2026-03-23,Downtown,Latte,Drinks,46,218.50
+2026-03-23,Downtown,Cold brew,Drinks,20,85.00
+2026-03-23,Downtown,Croissant,Food,21,73.50
+2026-03-23,Downtown,Bagel,Food,14,41.30
+2026-03-23,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-03-23,Riverside,Latte,Drinks,32,152.00
+2026-03-23,Riverside,Cold brew,Drinks,15,63.75
+2026-03-23,Riverside,Croissant,Food,19,66.50
+2026-03-23,Riverside,Bagel,Food,11,32.45
+2026-03-23,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-03-23,Airport,Latte,Drinks,55,261.25
+2026-03-23,Airport,Cold brew,Drinks,26,110.50
+2026-03-23,Airport,Croissant,Food,35,122.50
+2026-03-23,Airport,Bagel,Food,21,61.95
+2026-03-23,Airport,Coffee beans (1 lb),Retail,5,75.00
+2026-03-24,Downtown,Latte,Drinks,42,199.50
+2026-03-24,Downtown,Cold brew,Drinks,19,80.75
+2026-03-24,Downtown,Croissant,Food,25,87.50
+2026-03-24,Downtown,Bagel,Food,19,56.05
+2026-03-24,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-03-24,Riverside,Latte,Drinks,27,128.25
+2026-03-24,Riverside,Cold brew,Drinks,11,46.75
+2026-03-24,Riverside,Croissant,Food,17,59.50
+2026-03-24,Riverside,Bagel,Food,11,32.45
+2026-03-24,Riverside,Coffee beans (1 lb),Retail,2,30.00
+2026-03-24,Airport,Latte,Drinks,46,218.50
+2026-03-24,Airport,Cold brew,Drinks,24,102.00
+2026-03-24,Airport,Croissant,Food,30,105.00
+2026-03-24,Airport,Bagel,Food,21,61.95
+2026-03-24,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-03-25,Downtown,Latte,Drinks,47,223.25
+2026-03-25,Downtown,Cold brew,Drinks,15,63.75
+2026-03-25,Downtown,Croissant,Food,27,94.50
+2026-03-25,Downtown,Bagel,Food,19,56.05
+2026-03-25,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-03-25,Riverside,Latte,Drinks,31,147.25
+2026-03-25,Riverside,Cold brew,Drinks,13,55.25
+2026-03-25,Riverside,Croissant,Food,18,63.00
+2026-03-25,Riverside,Bagel,Food,14,41.30
+2026-03-25,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-03-25,Airport,Latte,Drinks,54,256.50
+2026-03-25,Airport,Cold brew,Drinks,27,114.75
+2026-03-25,Airport,Croissant,Food,34,119.00
+2026-03-25,Airport,Bagel,Food,20,59.00
+2026-03-25,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-03-26,Downtown,Latte,Drinks,35,166.25
+2026-03-26,Downtown,Cold brew,Drinks,15,63.75
+2026-03-26,Downtown,Croissant,Food,20,70.00
+2026-03-26,Downtown,Bagel,Food,19,56.05
+2026-03-26,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-03-26,Riverside,Latte,Drinks,34,161.50
+2026-03-26,Riverside,Cold brew,Drinks,13,55.25
+2026-03-26,Riverside,Croissant,Food,16,56.00
+2026-03-26,Riverside,Bagel,Food,11,32.45
+2026-03-26,Riverside,Coffee beans (1 lb),Retail,2,30.00
+2026-03-26,Airport,Latte,Drinks,54,256.50
+2026-03-26,Airport,Cold brew,Drinks,24,102.00
+2026-03-26,Airport,Croissant,Food,28,98.00
+2026-03-26,Airport,Bagel,Food,21,61.95
+2026-03-26,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-03-27,Downtown,Latte,Drinks,40,190.00
+2026-03-27,Downtown,Cold brew,Drinks,16,68.00
+2026-03-27,Downtown,Croissant,Food,25,87.50
+2026-03-27,Downtown,Bagel,Food,18,53.10
+2026-03-27,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-03-27,Riverside,Latte,Drinks,26,123.50
+2026-03-27,Riverside,Cold brew,Drinks,11,46.75
+2026-03-27,Riverside,Croissant,Food,19,66.50
+2026-03-27,Riverside,Bagel,Food,11,32.45
+2026-03-27,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-03-27,Airport,Latte,Drinks,59,280.25
+2026-03-27,Airport,Cold brew,Drinks,28,119.00
+2026-03-27,Airport,Croissant,Food,37,129.50
+2026-03-27,Airport,Bagel,Food,20,59.00
+2026-03-27,Airport,Coffee beans (1 lb),Retail,5,75.00
+2026-03-28,Downtown,Latte,Drinks,44,209.00
+2026-03-28,Downtown,Cold brew,Drinks,21,89.25
+2026-03-28,Downtown,Croissant,Food,35,122.50
+2026-03-28,Downtown,Bagel,Food,22,64.90
+2026-03-28,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-03-28,Riverside,Latte,Drinks,40,190.00
+2026-03-28,Riverside,Cold brew,Drinks,19,80.75
+2026-03-28,Riverside,Croissant,Food,21,73.50
+2026-03-28,Riverside,Bagel,Food,15,44.25
+2026-03-28,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-03-28,Airport,Latte,Drinks,78,370.50
+2026-03-28,Airport,Cold brew,Drinks,32,136.00
+2026-03-28,Airport,Croissant,Food,46,161.00
+2026-03-28,Airport,Bagel,Food,30,88.50
+2026-03-28,Airport,Coffee beans (1 lb),Retail,6,90.00
+2026-03-29,Downtown,Latte,Drinks,52,247.00
+2026-03-29,Downtown,Cold brew,Drinks,23,97.75
+2026-03-29,Downtown,Croissant,Food,29,101.50
+2026-03-29,Downtown,Bagel,Food,19,56.05
+2026-03-29,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-03-29,Riverside,Latte,Drinks,34,161.50
+2026-03-29,Riverside,Cold brew,Drinks,15,63.75
+2026-03-29,Riverside,Croissant,Food,26,91.00
+2026-03-29,Riverside,Bagel,Food,15,44.25
+2026-03-29,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-03-29,Airport,Latte,Drinks,60,285.00
+2026-03-29,Airport,Cold brew,Drinks,25,106.25
+2026-03-29,Airport,Croissant,Food,46,161.00
+2026-03-29,Airport,Bagel,Food,23,67.85
+2026-03-29,Airport,Coffee beans (1 lb),Retail,6,90.00
+2026-03-30,Downtown,Latte,Drinks,47,223.25
+2026-03-30,Downtown,Cold brew,Drinks,20,85.00
+2026-03-30,Downtown,Croissant,Food,20,70.00
+2026-03-30,Downtown,Bagel,Food,15,44.25
+2026-03-30,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-03-30,Riverside,Latte,Drinks,26,123.50
+2026-03-30,Riverside,Cold brew,Drinks,13,55.25
+2026-03-30,Riverside,Croissant,Food,16,56.00
+2026-03-30,Riverside,Bagel,Food,14,41.30
+2026-03-30,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-03-30,Airport,Latte,Drinks,63,299.25
+2026-03-30,Airport,Cold brew,Drinks,21,89.25
+2026-03-30,Airport,Croissant,Food,31,108.50
+2026-03-30,Airport,Bagel,Food,21,61.95
+2026-03-30,Airport,Coffee beans (1 lb),Retail,5,75.00
+2026-03-31,Downtown,Latte,Drinks,37,175.75
+2026-03-31,Downtown,Cold brew,Drinks,17,72.25
+2026-03-31,Downtown,Croissant,Food,22,77.00
+2026-03-31,Downtown,Bagel,Food,18,53.10
+2026-03-31,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-03-31,Riverside,Latte,Drinks,31,147.25
+2026-03-31,Riverside,Cold brew,Drinks,12,51.00
+2026-03-31,Riverside,Croissant,Food,20,70.00
+2026-03-31,Riverside,Bagel,Food,12,35.40
+2026-03-31,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-03-31,Airport,Latte,Drinks,53,251.75
+2026-03-31,Airport,Cold brew,Drinks,28,119.00
+2026-03-31,Airport,Croissant,Food,39,136.50
+2026-03-31,Airport,Bagel,Food,22,64.90
+2026-03-31,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-04-01,Downtown,Latte,Drinks,39,185.25
+2026-04-01,Downtown,Cold brew,Drinks,22,93.50
+2026-04-01,Downtown,Croissant,Food,28,98.00
+2026-04-01,Downtown,Bagel,Food,18,53.10
+2026-04-01,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-04-01,Riverside,Latte,Drinks,27,128.25
+2026-04-01,Riverside,Cold brew,Drinks,15,63.75
+2026-04-01,Riverside,Croissant,Food,19,66.50
+2026-04-01,Riverside,Bagel,Food,14,41.30
+2026-04-01,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-04-01,Airport,Latte,Drinks,47,223.25
+2026-04-01,Airport,Cold brew,Drinks,34,144.50
+2026-04-01,Airport,Croissant,Food,37,129.50
+2026-04-01,Airport,Bagel,Food,20,59.00
+2026-04-01,Airport,Coffee beans (1 lb),Retail,5,75.00
+2026-04-02,Downtown,Latte,Drinks,38,180.50
+2026-04-02,Downtown,Cold brew,Drinks,26,110.50
+2026-04-02,Downtown,Croissant,Food,21,73.50
+2026-04-02,Downtown,Bagel,Food,16,47.20
+2026-04-02,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-04-02,Riverside,Latte,Drinks,28,133.00
+2026-04-02,Riverside,Cold brew,Drinks,16,68.00
+2026-04-02,Riverside,Croissant,Food,17,59.50
+2026-04-02,Riverside,Bagel,Food,10,29.50
+2026-04-02,Riverside,Coffee beans (1 lb),Retail,2,30.00
+2026-04-02,Airport,Latte,Drinks,56,266.00
+2026-04-02,Airport,Cold brew,Drinks,27,114.75
+2026-04-02,Airport,Croissant,Food,39,136.50
+2026-04-02,Airport,Bagel,Food,21,61.95
+2026-04-02,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-04-03,Downtown,Latte,Drinks,49,232.75
+2026-04-03,Downtown,Cold brew,Drinks,25,106.25
+2026-04-03,Downtown,Croissant,Food,25,87.50
+2026-04-03,Downtown,Bagel,Food,18,53.10
+2026-04-03,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-04-03,Riverside,Latte,Drinks,28,133.00
+2026-04-03,Riverside,Cold brew,Drinks,19,80.75
+2026-04-03,Riverside,Croissant,Food,19,66.50
+2026-04-03,Riverside,Bagel,Food,11,32.45
+2026-04-03,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-04-03,Airport,Latte,Drinks,55,261.25
+2026-04-03,Airport,Cold brew,Drinks,24,102.00
+2026-04-03,Airport,Croissant,Food,27,94.50
+2026-04-03,Airport,Bagel,Food,20,59.00
+2026-04-03,Airport,Coffee beans (1 lb),Retail,5,75.00
+2026-04-04,Downtown,Latte,Drinks,53,251.75
+2026-04-04,Downtown,Cold brew,Drinks,30,127.50
+2026-04-04,Downtown,Croissant,Food,30,105.00
+2026-04-04,Downtown,Bagel,Food,17,50.15
+2026-04-04,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-04-04,Riverside,Latte,Drinks,36,171.00
+2026-04-04,Riverside,Cold brew,Drinks,17,72.25
+2026-04-04,Riverside,Croissant,Food,22,77.00
+2026-04-04,Riverside,Bagel,Food,17,50.15
+2026-04-04,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-04-04,Airport,Latte,Drinks,59,280.25
+2026-04-04,Airport,Cold brew,Drinks,43,182.75
+2026-04-04,Airport,Croissant,Food,42,147.00
+2026-04-04,Airport,Bagel,Food,22,64.90
+2026-04-04,Airport,Coffee beans (1 lb),Retail,6,90.00
+2026-04-05,Downtown,Latte,Drinks,47,223.25
+2026-04-05,Downtown,Cold brew,Drinks,24,102.00
+2026-04-05,Downtown,Croissant,Food,29,101.50
+2026-04-05,Downtown,Bagel,Food,21,61.95
+2026-04-05,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-04-05,Riverside,Latte,Drinks,38,180.50
+2026-04-05,Riverside,Cold brew,Drinks,22,93.50
+2026-04-05,Riverside,Croissant,Food,19,66.50
+2026-04-05,Riverside,Bagel,Food,18,53.10
+2026-04-05,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-04-05,Airport,Latte,Drinks,71,337.25
+2026-04-05,Airport,Cold brew,Drinks,37,157.25
+2026-04-05,Airport,Croissant,Food,49,171.50
+2026-04-05,Airport,Bagel,Food,28,82.60
+2026-04-05,Airport,Coffee beans (1 lb),Retail,5,75.00
+2026-04-06,Downtown,Latte,Drinks,41,194.75
+2026-04-06,Downtown,Cold brew,Drinks,23,97.75
+2026-04-06,Downtown,Croissant,Food,29,101.50
+2026-04-06,Downtown,Bagel,Food,15,44.25
+2026-04-06,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-04-06,Riverside,Latte,Drinks,35,166.25
+2026-04-06,Riverside,Cold brew,Drinks,16,68.00
+2026-04-06,Riverside,Croissant,Food,20,70.00
+2026-04-06,Riverside,Bagel,Food,13,38.35
+2026-04-06,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-04-06,Airport,Latte,Drinks,61,289.75
+2026-04-06,Airport,Cold brew,Drinks,28,119.00
+2026-04-06,Airport,Croissant,Food,27,94.50
+2026-04-06,Airport,Bagel,Food,23,67.85
+2026-04-06,Airport,Coffee beans (1 lb),Retail,5,75.00
+2026-04-07,Downtown,Latte,Drinks,36,171.00
+2026-04-07,Downtown,Cold brew,Drinks,25,106.25
+2026-04-07,Downtown,Croissant,Food,24,84.00
+2026-04-07,Downtown,Bagel,Food,18,53.10
+2026-04-07,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-04-07,Riverside,Latte,Drinks,35,166.25
+2026-04-07,Riverside,Cold brew,Drinks,14,59.50
+2026-04-07,Riverside,Croissant,Food,20,70.00
+2026-04-07,Riverside,Bagel,Food,12,35.40
+2026-04-07,Riverside,Coffee beans (1 lb),Retail,2,30.00
+2026-04-07,Airport,Latte,Drinks,46,218.50
+2026-04-07,Airport,Cold brew,Drinks,26,110.50
+2026-04-07,Airport,Croissant,Food,27,94.50
+2026-04-07,Airport,Bagel,Food,26,76.70
+2026-04-07,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-04-08,Downtown,Latte,Drinks,50,237.50
+2026-04-08,Downtown,Cold brew,Drinks,22,93.50
+2026-04-08,Downtown,Croissant,Food,22,77.00
+2026-04-08,Downtown,Bagel,Food,18,53.10
+2026-04-08,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-04-08,Riverside,Latte,Drinks,29,137.75
+2026-04-08,Riverside,Cold brew,Drinks,18,76.50
+2026-04-08,Riverside,Croissant,Food,21,73.50
+2026-04-08,Riverside,Bagel,Food,12,35.40
+2026-04-08,Riverside,Coffee beans (1 lb),Retail,2,30.00
+2026-04-08,Airport,Latte,Drinks,53,251.75
+2026-04-08,Airport,Cold brew,Drinks,34,144.50
+2026-04-08,Airport,Croissant,Food,36,126.00
+2026-04-08,Airport,Bagel,Food,26,76.70
+2026-04-08,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-04-09,Downtown,Latte,Drinks,50,237.50
+2026-04-09,Downtown,Cold brew,Drinks,22,93.50
+2026-04-09,Downtown,Croissant,Food,24,84.00
+2026-04-09,Downtown,Bagel,Food,19,56.05
+2026-04-09,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-04-09,Riverside,Latte,Drinks,35,166.25
+2026-04-09,Riverside,Cold brew,Drinks,18,76.50
+2026-04-09,Riverside,Croissant,Food,15,52.50
+2026-04-09,Riverside,Bagel,Food,13,38.35
+2026-04-09,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-04-09,Airport,Latte,Drinks,57,270.75
+2026-04-09,Airport,Cold brew,Drinks,28,119.00
+2026-04-09,Airport,Croissant,Food,27,94.50
+2026-04-09,Airport,Bagel,Food,24,70.80
+2026-04-09,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-04-10,Downtown,Latte,Drinks,43,204.25
+2026-04-10,Downtown,Cold brew,Drinks,21,89.25
+2026-04-10,Downtown,Croissant,Food,26,91.00
+2026-04-10,Downtown,Bagel,Food,15,44.25
+2026-04-10,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-04-10,Riverside,Latte,Drinks,36,171.00
+2026-04-10,Riverside,Cold brew,Drinks,16,68.00
+2026-04-10,Riverside,Croissant,Food,22,77.00
+2026-04-10,Riverside,Bagel,Food,11,32.45
+2026-04-10,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-04-10,Airport,Latte,Drinks,66,313.50
+2026-04-10,Airport,Cold brew,Drinks,25,106.25
+2026-04-10,Airport,Croissant,Food,34,119.00
+2026-04-10,Airport,Bagel,Food,21,61.95
+2026-04-10,Airport,Coffee beans (1 lb),Retail,5,75.00
+2026-04-11,Downtown,Latte,Drinks,56,266.00
+2026-04-11,Downtown,Cold brew,Drinks,33,140.25
+2026-04-11,Downtown,Croissant,Food,26,91.00
+2026-04-11,Downtown,Bagel,Food,22,64.90
+2026-04-11,Downtown,Coffee beans (1 lb),Retail,5,75.00
+2026-04-11,Riverside,Latte,Drinks,32,152.00
+2026-04-11,Riverside,Cold brew,Drinks,17,72.25
+2026-04-11,Riverside,Croissant,Food,25,87.50
+2026-04-11,Riverside,Bagel,Food,15,44.25
+2026-04-11,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-04-11,Airport,Latte,Drinks,72,342.00
+2026-04-11,Airport,Cold brew,Drinks,39,165.75
+2026-04-11,Airport,Croissant,Food,44,154.00
+2026-04-11,Airport,Bagel,Food,33,97.35
+2026-04-11,Airport,Coffee beans (1 lb),Retail,5,75.00
+2026-04-12,Downtown,Latte,Drinks,58,275.50
+2026-04-12,Downtown,Cold brew,Drinks,29,123.25
+2026-04-12,Downtown,Croissant,Food,31,108.50
+2026-04-12,Downtown,Bagel,Food,20,59.00
+2026-04-12,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-04-12,Riverside,Latte,Drinks,35,166.25
+2026-04-12,Riverside,Cold brew,Drinks,18,76.50
+2026-04-12,Riverside,Croissant,Food,25,87.50
+2026-04-12,Riverside,Bagel,Food,15,44.25
+2026-04-12,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-04-12,Airport,Latte,Drinks,72,342.00
+2026-04-12,Airport,Cold brew,Drinks,34,144.50
+2026-04-12,Airport,Croissant,Food,37,129.50
+2026-04-12,Airport,Bagel,Food,27,79.65
+2026-04-12,Airport,Coffee beans (1 lb),Retail,7,105.00
+2026-04-13,Downtown,Latte,Drinks,38,180.50
+2026-04-13,Downtown,Cold brew,Drinks,26,110.50
+2026-04-13,Downtown,Croissant,Food,24,84.00
+2026-04-13,Downtown,Bagel,Food,14,41.30
+2026-04-13,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-04-13,Riverside,Latte,Drinks,31,147.25
+2026-04-13,Riverside,Cold brew,Drinks,19,80.75
+2026-04-13,Riverside,Croissant,Food,18,63.00
+2026-04-13,Riverside,Bagel,Food,10,29.50
+2026-04-13,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-04-13,Airport,Latte,Drinks,64,304.00
+2026-04-13,Airport,Cold brew,Drinks,28,119.00
+2026-04-13,Airport,Croissant,Food,31,108.50
+2026-04-13,Airport,Bagel,Food,18,53.10
+2026-04-13,Airport,Coffee beans (1 lb),Retail,5,75.00
+2026-04-14,Downtown,Latte,Drinks,48,228.00
+2026-04-14,Downtown,Cold brew,Drinks,25,106.25
+2026-04-14,Downtown,Croissant,Food,26,91.00
+2026-04-14,Downtown,Bagel,Food,19,56.05
+2026-04-14,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-04-14,Riverside,Latte,Drinks,35,166.25
+2026-04-14,Riverside,Cold brew,Drinks,17,72.25
+2026-04-14,Riverside,Croissant,Food,15,52.50
+2026-04-14,Riverside,Bagel,Food,11,32.45
+2026-04-14,Riverside,Coffee beans (1 lb),Retail,2,30.00
+2026-04-14,Airport,Latte,Drinks,63,299.25
+2026-04-14,Airport,Cold brew,Drinks,24,102.00
+2026-04-14,Airport,Croissant,Food,33,115.50
+2026-04-14,Airport,Bagel,Food,21,61.95
+2026-04-14,Airport,Coffee beans (1 lb),Retail,5,75.00
+2026-04-15,Downtown,Latte,Drinks,43,204.25
+2026-04-15,Downtown,Cold brew,Drinks,23,97.75
+2026-04-15,Downtown,Croissant,Food,20,70.00
+2026-04-15,Downtown,Bagel,Food,15,44.25
+2026-04-15,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-04-15,Riverside,Latte,Drinks,34,161.50
+2026-04-15,Riverside,Cold brew,Drinks,17,72.25
+2026-04-15,Riverside,Croissant,Food,20,70.00
+2026-04-15,Riverside,Bagel,Food,14,41.30
+2026-04-15,Riverside,Coffee beans (1 lb),Retail,2,30.00
+2026-04-15,Airport,Latte,Drinks,67,318.25
+2026-04-15,Airport,Cold brew,Drinks,32,136.00
+2026-04-15,Airport,Croissant,Food,32,112.00
+2026-04-15,Airport,Bagel,Food,24,70.80
+2026-04-15,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-04-16,Downtown,Latte,Drinks,48,228.00
+2026-04-16,Downtown,Cold brew,Drinks,25,106.25
+2026-04-16,Downtown,Croissant,Food,26,91.00
+2026-04-16,Downtown,Bagel,Food,14,41.30
+2026-04-16,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-04-16,Riverside,Latte,Drinks,31,147.25
+2026-04-16,Riverside,Cold brew,Drinks,19,80.75
+2026-04-16,Riverside,Croissant,Food,15,52.50
+2026-04-16,Riverside,Bagel,Food,11,32.45
+2026-04-16,Riverside,Coffee beans (1 lb),Retail,2,30.00
+2026-04-16,Airport,Latte,Drinks,49,232.75
+2026-04-16,Airport,Cold brew,Drinks,28,119.00
+2026-04-16,Airport,Croissant,Food,36,126.00
+2026-04-16,Airport,Bagel,Food,21,61.95
+2026-04-16,Airport,Coffee beans (1 lb),Retail,5,75.00
+2026-04-17,Downtown,Latte,Drinks,49,232.75
+2026-04-17,Downtown,Cold brew,Drinks,25,106.25
+2026-04-17,Downtown,Croissant,Food,22,77.00
+2026-04-17,Downtown,Bagel,Food,17,50.15
+2026-04-17,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-04-17,Riverside,Latte,Drinks,27,128.25
+2026-04-17,Riverside,Cold brew,Drinks,15,63.75
+2026-04-17,Riverside,Croissant,Food,18,63.00
+2026-04-17,Riverside,Bagel,Food,12,35.40
+2026-04-17,Riverside,Coffee beans (1 lb),Retail,2,30.00
+2026-04-17,Airport,Latte,Drinks,67,318.25
+2026-04-17,Airport,Cold brew,Drinks,26,110.50
+2026-04-17,Airport,Croissant,Food,35,122.50
+2026-04-17,Airport,Bagel,Food,24,70.80
+2026-04-17,Airport,Coffee beans (1 lb),Retail,5,75.00
+2026-04-18,Downtown,Latte,Drinks,60,285.00
+2026-04-18,Downtown,Cold brew,Drinks,29,123.25
+2026-04-18,Downtown,Croissant,Food,34,119.00
+2026-04-18,Downtown,Bagel,Food,17,50.15
+2026-04-18,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-04-18,Riverside,Latte,Drinks,42,199.50
+2026-04-18,Riverside,Cold brew,Drinks,22,93.50
+2026-04-18,Riverside,Croissant,Food,24,84.00
+2026-04-18,Riverside,Bagel,Food,17,50.15
+2026-04-18,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-04-18,Airport,Latte,Drinks,75,356.25
+2026-04-18,Airport,Cold brew,Drinks,38,161.50
+2026-04-18,Airport,Croissant,Food,43,150.50
+2026-04-18,Airport,Bagel,Food,26,76.70
+2026-04-18,Airport,Coffee beans (1 lb),Retail,7,105.00
+2026-04-19,Downtown,Latte,Drinks,52,247.00
+2026-04-19,Downtown,Cold brew,Drinks,31,131.75
+2026-04-19,Downtown,Croissant,Food,33,115.50
+2026-04-19,Downtown,Bagel,Food,19,56.05
+2026-04-19,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-04-19,Riverside,Latte,Drinks,33,156.75
+2026-04-19,Riverside,Cold brew,Drinks,20,85.00
+2026-04-19,Riverside,Croissant,Food,23,80.50
+2026-04-19,Riverside,Bagel,Food,14,41.30
+2026-04-19,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-04-19,Airport,Latte,Drinks,66,313.50
+2026-04-19,Airport,Cold brew,Drinks,41,174.25
+2026-04-19,Airport,Croissant,Food,45,157.50
+2026-04-19,Airport,Bagel,Food,32,94.40
+2026-04-19,Airport,Coffee beans (1 lb),Retail,7,105.00
+2026-04-20,Downtown,Latte,Drinks,36,171.00
+2026-04-20,Downtown,Cold brew,Drinks,21,89.25
+2026-04-20,Downtown,Croissant,Food,25,87.50
+2026-04-20,Downtown,Bagel,Food,15,44.25
+2026-04-20,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-04-20,Riverside,Latte,Drinks,29,137.75
+2026-04-20,Riverside,Cold brew,Drinks,15,63.75
+2026-04-20,Riverside,Croissant,Food,15,52.50
+2026-04-20,Riverside,Bagel,Food,11,32.45
+2026-04-20,Riverside,Coffee beans (1 lb),Retail,2,30.00
+2026-04-20,Airport,Latte,Drinks,59,280.25
+2026-04-20,Airport,Cold brew,Drinks,27,114.75
+2026-04-20,Airport,Croissant,Food,38,133.00
+2026-04-20,Airport,Bagel,Food,19,56.05
+2026-04-20,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-04-21,Downtown,Latte,Drinks,43,204.25
+2026-04-21,Downtown,Cold brew,Drinks,21,89.25
+2026-04-21,Downtown,Croissant,Food,27,94.50
+2026-04-21,Downtown,Bagel,Food,17,50.15
+2026-04-21,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-04-21,Riverside,Latte,Drinks,32,152.00
+2026-04-21,Riverside,Cold brew,Drinks,15,63.75
+2026-04-21,Riverside,Croissant,Food,15,52.50
+2026-04-21,Riverside,Bagel,Food,15,44.25
+2026-04-21,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-04-21,Airport,Latte,Drinks,68,323.00
+2026-04-21,Airport,Cold brew,Drinks,27,114.75
+2026-04-21,Airport,Croissant,Food,31,108.50
+2026-04-21,Airport,Bagel,Food,18,53.10
+2026-04-21,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-04-22,Downtown,Latte,Drinks,49,232.75
+2026-04-22,Downtown,Cold brew,Drinks,24,102.00
+2026-04-22,Downtown,Croissant,Food,24,84.00
+2026-04-22,Downtown,Bagel,Food,17,50.15
+2026-04-22,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-04-22,Riverside,Latte,Drinks,31,147.25
+2026-04-22,Riverside,Cold brew,Drinks,19,80.75
+2026-04-22,Riverside,Croissant,Food,20,70.00
+2026-04-22,Riverside,Bagel,Food,14,41.30
+2026-04-22,Riverside,Coffee beans (1 lb),Retail,2,30.00
+2026-04-22,Airport,Latte,Drinks,55,261.25
+2026-04-22,Airport,Cold brew,Drinks,31,131.75
+2026-04-22,Airport,Croissant,Food,29,101.50
+2026-04-22,Airport,Bagel,Food,23,67.85
+2026-04-22,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-04-23,Downtown,Latte,Drinks,42,199.50
+2026-04-23,Downtown,Cold brew,Drinks,25,106.25
+2026-04-23,Downtown,Croissant,Food,22,77.00
+2026-04-23,Downtown,Bagel,Food,20,59.00
+2026-04-23,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-04-23,Riverside,Latte,Drinks,27,128.25
+2026-04-23,Riverside,Cold brew,Drinks,20,85.00
+2026-04-23,Riverside,Croissant,Food,18,63.00
+2026-04-23,Riverside,Bagel,Food,14,41.30
+2026-04-23,Riverside,Coffee beans (1 lb),Retail,2,30.00
+2026-04-23,Airport,Latte,Drinks,67,318.25
+2026-04-23,Airport,Cold brew,Drinks,33,140.25
+2026-04-23,Airport,Croissant,Food,29,101.50
+2026-04-23,Airport,Bagel,Food,23,67.85
+2026-04-23,Airport,Coffee beans (1 lb),Retail,5,75.00
+2026-04-24,Downtown,Latte,Drinks,35,166.25
+2026-04-24,Downtown,Cold brew,Drinks,19,80.75
+2026-04-24,Downtown,Croissant,Food,23,80.50
+2026-04-24,Downtown,Bagel,Food,17,50.15
+2026-04-24,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-04-24,Riverside,Latte,Drinks,33,156.75
+2026-04-24,Riverside,Cold brew,Drinks,17,72.25
+2026-04-24,Riverside,Croissant,Food,17,59.50
+2026-04-24,Riverside,Bagel,Food,13,38.35
+2026-04-24,Riverside,Coffee beans (1 lb),Retail,2,30.00
+2026-04-24,Airport,Latte,Drinks,68,323.00
+2026-04-24,Airport,Cold brew,Drinks,33,140.25
+2026-04-24,Airport,Croissant,Food,30,105.00
+2026-04-24,Airport,Bagel,Food,21,61.95
+2026-04-24,Airport,Coffee beans (1 lb),Retail,5,75.00
+2026-04-25,Downtown,Latte,Drinks,54,256.50
+2026-04-25,Downtown,Cold brew,Drinks,30,127.50
+2026-04-25,Downtown,Croissant,Food,28,98.00
+2026-04-25,Downtown,Bagel,Food,24,70.80
+2026-04-25,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-04-25,Riverside,Latte,Drinks,42,199.50
+2026-04-25,Riverside,Cold brew,Drinks,25,106.25
+2026-04-25,Riverside,Croissant,Food,24,84.00
+2026-04-25,Riverside,Bagel,Food,18,53.10
+2026-04-25,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-04-25,Airport,Latte,Drinks,77,365.75
+2026-04-25,Airport,Cold brew,Drinks,31,131.75
+2026-04-25,Airport,Croissant,Food,41,143.50
+2026-04-25,Airport,Bagel,Food,33,97.35
+2026-04-25,Airport,Coffee beans (1 lb),Retail,6,90.00
+2026-04-26,Downtown,Latte,Drinks,59,280.25
+2026-04-26,Downtown,Cold brew,Drinks,29,123.25
+2026-04-26,Downtown,Croissant,Food,33,115.50
+2026-04-26,Downtown,Bagel,Food,22,64.90
+2026-04-26,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-04-26,Riverside,Latte,Drinks,42,199.50
+2026-04-26,Riverside,Cold brew,Drinks,22,93.50
+2026-04-26,Riverside,Croissant,Food,26,91.00
+2026-04-26,Riverside,Bagel,Food,13,38.35
+2026-04-26,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-04-26,Airport,Latte,Drinks,58,275.50
+2026-04-26,Airport,Cold brew,Drinks,45,191.25
+2026-04-26,Airport,Croissant,Food,35,122.50
+2026-04-26,Airport,Bagel,Food,23,67.85
+2026-04-26,Airport,Coffee beans (1 lb),Retail,5,75.00
+2026-04-27,Downtown,Latte,Drinks,36,171.00
+2026-04-27,Downtown,Cold brew,Drinks,24,102.00
+2026-04-27,Downtown,Croissant,Food,24,84.00
+2026-04-27,Downtown,Bagel,Food,19,56.05
+2026-04-27,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-04-27,Riverside,Latte,Drinks,37,175.75
+2026-04-27,Riverside,Cold brew,Drinks,18,76.50
+2026-04-27,Riverside,Croissant,Food,15,52.50
+2026-04-27,Riverside,Bagel,Food,11,32.45
+2026-04-27,Riverside,Coffee beans (1 lb),Retail,2,30.00
+2026-04-27,Airport,Latte,Drinks,53,251.75
+2026-04-27,Airport,Cold brew,Drinks,32,136.00
+2026-04-27,Airport,Croissant,Food,33,115.50
+2026-04-27,Airport,Bagel,Food,21,61.95
+2026-04-27,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-04-28,Downtown,Latte,Drinks,49,232.75
+2026-04-28,Downtown,Cold brew,Drinks,21,89.25
+2026-04-28,Downtown,Croissant,Food,23,80.50
+2026-04-28,Downtown,Bagel,Food,19,56.05
+2026-04-28,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-04-28,Riverside,Latte,Drinks,34,161.50
+2026-04-28,Riverside,Cold brew,Drinks,18,76.50
+2026-04-28,Riverside,Croissant,Food,19,66.50
+2026-04-28,Riverside,Bagel,Food,11,32.45
+2026-04-28,Riverside,Coffee beans (1 lb),Retail,2,30.00
+2026-04-28,Airport,Latte,Drinks,59,280.25
+2026-04-28,Airport,Cold brew,Drinks,27,114.75
+2026-04-28,Airport,Croissant,Food,39,136.50
+2026-04-28,Airport,Bagel,Food,21,61.95
+2026-04-28,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-04-29,Downtown,Latte,Drinks,37,175.75
+2026-04-29,Downtown,Cold brew,Drinks,24,102.00
+2026-04-29,Downtown,Croissant,Food,23,80.50
+2026-04-29,Downtown,Bagel,Food,16,47.20
+2026-04-29,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-04-29,Riverside,Latte,Drinks,36,171.00
+2026-04-29,Riverside,Cold brew,Drinks,15,63.75
+2026-04-29,Riverside,Croissant,Food,16,56.00
+2026-04-29,Riverside,Bagel,Food,13,38.35
+2026-04-29,Riverside,Coffee beans (1 lb),Retail,2,30.00
+2026-04-29,Airport,Latte,Drinks,68,323.00
+2026-04-29,Airport,Cold brew,Drinks,34,144.50
+2026-04-29,Airport,Croissant,Food,39,136.50
+2026-04-29,Airport,Bagel,Food,25,73.75
+2026-04-29,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-04-30,Downtown,Latte,Drinks,39,185.25
+2026-04-30,Downtown,Cold brew,Drinks,24,102.00
+2026-04-30,Downtown,Croissant,Food,23,80.50
+2026-04-30,Downtown,Bagel,Food,16,47.20
+2026-04-30,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-04-30,Riverside,Latte,Drinks,32,152.00
+2026-04-30,Riverside,Cold brew,Drinks,15,63.75
+2026-04-30,Riverside,Croissant,Food,19,66.50
+2026-04-30,Riverside,Bagel,Food,15,44.25
+2026-04-30,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-04-30,Airport,Latte,Drinks,49,232.75
+2026-04-30,Airport,Cold brew,Drinks,32,136.00
+2026-04-30,Airport,Croissant,Food,34,119.00
+2026-04-30,Airport,Bagel,Food,20,59.00
+2026-04-30,Airport,Coffee beans (1 lb),Retail,5,75.00
+2026-05-01,Downtown,Latte,Drinks,39,185.25
+2026-05-01,Downtown,Cold brew,Drinks,28,119.00
+2026-05-01,Downtown,Croissant,Food,20,70.00
+2026-05-01,Downtown,Bagel,Food,16,47.20
+2026-05-01,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-05-01,Riverside,Latte,Drinks,24,114.00
+2026-05-01,Riverside,Cold brew,Drinks,22,93.50
+2026-05-01,Riverside,Croissant,Food,15,52.50
+2026-05-01,Riverside,Bagel,Food,13,38.35
+2026-05-01,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-05-01,Airport,Latte,Drinks,50,237.50
+2026-05-01,Airport,Cold brew,Drinks,43,182.75
+2026-05-01,Airport,Croissant,Food,38,133.00
+2026-05-01,Airport,Bagel,Food,22,64.90
+2026-05-01,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-05-02,Downtown,Latte,Drinks,57,270.75
+2026-05-02,Downtown,Cold brew,Drinks,31,131.75
+2026-05-02,Downtown,Croissant,Food,33,115.50
+2026-05-02,Downtown,Bagel,Food,24,70.80
+2026-05-02,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-05-02,Riverside,Latte,Drinks,37,175.75
+2026-05-02,Riverside,Cold brew,Drinks,26,110.50
+2026-05-02,Riverside,Croissant,Food,25,87.50
+2026-05-02,Riverside,Bagel,Food,19,56.05
+2026-05-02,Riverside,Coffee beans (1 lb),Retail,4,60.00
+2026-05-02,Airport,Latte,Drinks,56,266.00
+2026-05-02,Airport,Cold brew,Drinks,52,221.00
+2026-05-02,Airport,Croissant,Food,36,126.00
+2026-05-02,Airport,Bagel,Food,33,97.35
+2026-05-02,Airport,Coffee beans (1 lb),Retail,7,105.00
+2026-05-03,Downtown,Latte,Drinks,46,218.50
+2026-05-03,Downtown,Cold brew,Drinks,34,144.50
+2026-05-03,Downtown,Croissant,Food,36,126.00
+2026-05-03,Downtown,Bagel,Food,25,73.75
+2026-05-03,Downtown,Coffee beans (1 lb),Retail,5,75.00
+2026-05-03,Riverside,Latte,Drinks,41,194.75
+2026-05-03,Riverside,Cold brew,Drinks,20,85.00
+2026-05-03,Riverside,Croissant,Food,24,84.00
+2026-05-03,Riverside,Bagel,Food,13,38.35
+2026-05-03,Riverside,Coffee beans (1 lb),Retail,4,60.00
+2026-05-03,Airport,Latte,Drinks,59,280.25
+2026-05-03,Airport,Cold brew,Drinks,54,229.50
+2026-05-03,Airport,Croissant,Food,42,147.00
+2026-05-03,Airport,Bagel,Food,28,82.60
+2026-05-03,Airport,Coffee beans (1 lb),Retail,7,105.00
+2026-05-04,Downtown,Latte,Drinks,44,209.00
+2026-05-04,Downtown,Cold brew,Drinks,27,114.75
+2026-05-04,Downtown,Croissant,Food,22,77.00
+2026-05-04,Downtown,Bagel,Food,14,41.30
+2026-05-04,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-05-04,Riverside,Latte,Drinks,28,133.00
+2026-05-04,Riverside,Cold brew,Drinks,18,76.50
+2026-05-04,Riverside,Croissant,Food,16,56.00
+2026-05-04,Riverside,Bagel,Food,14,41.30
+2026-05-04,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-05-04,Airport,Latte,Drinks,53,251.75
+2026-05-04,Airport,Cold brew,Drinks,40,170.00
+2026-05-04,Airport,Croissant,Food,29,101.50
+2026-05-04,Airport,Bagel,Food,26,76.70
+2026-05-04,Airport,Coffee beans (1 lb),Retail,5,75.00
+2026-05-05,Downtown,Latte,Drinks,43,204.25
+2026-05-05,Downtown,Cold brew,Drinks,27,114.75
+2026-05-05,Downtown,Croissant,Food,21,73.50
+2026-05-05,Downtown,Bagel,Food,18,53.10
+2026-05-05,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-05-05,Riverside,Latte,Drinks,25,118.75
+2026-05-05,Riverside,Cold brew,Drinks,19,80.75
+2026-05-05,Riverside,Croissant,Food,17,59.50
+2026-05-05,Riverside,Bagel,Food,11,32.45
+2026-05-05,Riverside,Coffee beans (1 lb),Retail,2,30.00
+2026-05-05,Airport,Latte,Drinks,57,270.75
+2026-05-05,Airport,Cold brew,Drinks,43,182.75
+2026-05-05,Airport,Croissant,Food,31,108.50
+2026-05-05,Airport,Bagel,Food,25,73.75
+2026-05-05,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-05-06,Downtown,Latte,Drinks,41,194.75
+2026-05-06,Downtown,Cold brew,Drinks,29,123.25
+2026-05-06,Downtown,Croissant,Food,20,70.00
+2026-05-06,Downtown,Bagel,Food,14,41.30
+2026-05-06,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-05-06,Riverside,Latte,Drinks,28,133.00
+2026-05-06,Riverside,Cold brew,Drinks,20,85.00
+2026-05-06,Riverside,Croissant,Food,21,73.50
+2026-05-06,Riverside,Bagel,Food,14,41.30
+2026-05-06,Riverside,Coffee beans (1 lb),Retail,2,30.00
+2026-05-06,Airport,Latte,Drinks,44,209.00
+2026-05-06,Airport,Cold brew,Drinks,43,182.75
+2026-05-06,Airport,Croissant,Food,31,108.50
+2026-05-06,Airport,Bagel,Food,24,70.80
+2026-05-06,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-05-07,Downtown,Latte,Drinks,33,156.75
+2026-05-07,Downtown,Cold brew,Drinks,23,97.75
+2026-05-07,Downtown,Croissant,Food,27,94.50
+2026-05-07,Downtown,Bagel,Food,18,53.10
+2026-05-07,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-05-07,Riverside,Latte,Drinks,29,137.75
+2026-05-07,Riverside,Cold brew,Drinks,20,85.00
+2026-05-07,Riverside,Croissant,Food,19,66.50
+2026-05-07,Riverside,Bagel,Food,13,38.35
+2026-05-07,Riverside,Coffee beans (1 lb),Retail,2,30.00
+2026-05-07,Airport,Latte,Drinks,47,223.25
+2026-05-07,Airport,Cold brew,Drinks,40,170.00
+2026-05-07,Airport,Croissant,Food,38,133.00
+2026-05-07,Airport,Bagel,Food,19,56.05
+2026-05-07,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-05-08,Downtown,Latte,Drinks,42,199.50
+2026-05-08,Downtown,Cold brew,Drinks,23,97.75
+2026-05-08,Downtown,Croissant,Food,25,87.50
+2026-05-08,Downtown,Bagel,Food,14,41.30
+2026-05-08,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-05-08,Riverside,Latte,Drinks,29,137.75
+2026-05-08,Riverside,Cold brew,Drinks,21,89.25
+2026-05-08,Riverside,Croissant,Food,16,56.00
+2026-05-08,Riverside,Bagel,Food,12,35.40
+2026-05-08,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-05-08,Airport,Latte,Drinks,44,209.00
+2026-05-08,Airport,Cold brew,Drinks,32,136.00
+2026-05-08,Airport,Croissant,Food,35,122.50
+2026-05-08,Airport,Bagel,Food,19,56.05
+2026-05-08,Airport,Coffee beans (1 lb),Retail,5,75.00
+2026-05-09,Downtown,Latte,Drinks,54,256.50
+2026-05-09,Downtown,Cold brew,Drinks,33,140.25
+2026-05-09,Downtown,Croissant,Food,31,108.50
+2026-05-09,Downtown,Bagel,Food,21,61.95
+2026-05-09,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-05-09,Riverside,Latte,Drinks,36,171.00
+2026-05-09,Riverside,Cold brew,Drinks,29,123.25
+2026-05-09,Riverside,Croissant,Food,25,87.50
+2026-05-09,Riverside,Bagel,Food,15,44.25
+2026-05-09,Riverside,Coffee beans (1 lb),Retail,4,60.00
+2026-05-09,Airport,Latte,Drinks,71,337.25
+2026-05-09,Airport,Cold brew,Drinks,47,199.75
+2026-05-09,Airport,Croissant,Food,34,119.00
+2026-05-09,Airport,Bagel,Food,27,79.65
+2026-05-09,Airport,Coffee beans (1 lb),Retail,5,75.00
+2026-05-10,Downtown,Latte,Drinks,58,275.50
+2026-05-10,Downtown,Cold brew,Drinks,40,170.00
+2026-05-10,Downtown,Croissant,Food,26,91.00
+2026-05-10,Downtown,Bagel,Food,25,73.75
+2026-05-10,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-05-10,Riverside,Latte,Drinks,35,166.25
+2026-05-10,Riverside,Cold brew,Drinks,28,119.00
+2026-05-10,Riverside,Croissant,Food,26,91.00
+2026-05-10,Riverside,Bagel,Food,19,56.05
+2026-05-10,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-05-10,Airport,Latte,Drinks,63,299.25
+2026-05-10,Airport,Cold brew,Drinks,55,233.75
+2026-05-10,Airport,Croissant,Food,40,140.00
+2026-05-10,Airport,Bagel,Food,33,97.35
+2026-05-10,Airport,Coffee beans (1 lb),Retail,7,105.00
+2026-05-11,Downtown,Latte,Drinks,37,175.75
+2026-05-11,Downtown,Cold brew,Drinks,29,123.25
+2026-05-11,Downtown,Croissant,Food,26,91.00
+2026-05-11,Downtown,Bagel,Food,17,50.15
+2026-05-11,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-05-11,Riverside,Latte,Drinks,27,128.25
+2026-05-11,Riverside,Cold brew,Drinks,18,76.50
+2026-05-11,Riverside,Croissant,Food,19,66.50
+2026-05-11,Riverside,Bagel,Food,13,38.35
+2026-05-11,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-05-11,Airport,Latte,Drinks,46,218.50
+2026-05-11,Airport,Cold brew,Drinks,29,123.25
+2026-05-11,Airport,Croissant,Food,27,94.50
+2026-05-11,Airport,Bagel,Food,21,61.95
+2026-05-11,Airport,Coffee beans (1 lb),Retail,5,75.00
+2026-05-12,Downtown,Latte,Drinks,39,185.25
+2026-05-12,Downtown,Cold brew,Drinks,28,119.00
+2026-05-12,Downtown,Croissant,Food,28,98.00
+2026-05-12,Downtown,Bagel,Food,15,44.25
+2026-05-12,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-05-12,Riverside,Latte,Drinks,26,123.50
+2026-05-12,Riverside,Cold brew,Drinks,24,102.00
+2026-05-12,Riverside,Croissant,Food,20,70.00
+2026-05-12,Riverside,Bagel,Food,11,32.45
+2026-05-12,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-05-12,Airport,Latte,Drinks,50,237.50
+2026-05-12,Airport,Cold brew,Drinks,41,174.25
+2026-05-12,Airport,Croissant,Food,39,136.50
+2026-05-12,Airport,Bagel,Food,18,53.10
+2026-05-12,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-05-13,Downtown,Latte,Drinks,33,156.75
+2026-05-13,Downtown,Cold brew,Drinks,22,93.50
+2026-05-13,Downtown,Croissant,Food,26,91.00
+2026-05-13,Downtown,Bagel,Food,18,53.10
+2026-05-13,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-05-13,Riverside,Latte,Drinks,32,152.00
+2026-05-13,Riverside,Cold brew,Drinks,20,85.00
+2026-05-13,Riverside,Croissant,Food,17,59.50
+2026-05-13,Riverside,Bagel,Food,11,32.45
+2026-05-13,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-05-13,Airport,Latte,Drinks,43,204.25
+2026-05-13,Airport,Cold brew,Drinks,37,157.25
+2026-05-13,Airport,Croissant,Food,31,108.50
+2026-05-13,Airport,Bagel,Food,26,76.70
+2026-05-13,Airport,Coffee beans (1 lb),Retail,5,75.00
+2026-05-14,Downtown,Latte,Drinks,36,171.00
+2026-05-14,Downtown,Cold brew,Drinks,28,119.00
+2026-05-14,Downtown,Croissant,Food,27,94.50
+2026-05-14,Downtown,Bagel,Food,16,47.20
+2026-05-14,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-05-14,Riverside,Latte,Drinks,25,118.75
+2026-05-14,Riverside,Cold brew,Drinks,22,93.50
+2026-05-14,Riverside,Croissant,Food,17,59.50
+2026-05-14,Riverside,Bagel,Food,12,35.40
+2026-05-14,Riverside,Coffee beans (1 lb),Retail,2,30.00
+2026-05-14,Airport,Latte,Drinks,62,294.50
+2026-05-14,Airport,Cold brew,Drinks,42,178.50
+2026-05-14,Airport,Croissant,Food,39,136.50
+2026-05-14,Airport,Bagel,Food,24,70.80
+2026-05-14,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-05-15,Downtown,Latte,Drinks,39,185.25
+2026-05-15,Downtown,Cold brew,Drinks,32,136.00
+2026-05-15,Downtown,Croissant,Food,29,101.50
+2026-05-15,Downtown,Bagel,Food,18,53.10
+2026-05-15,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-05-15,Riverside,Latte,Drinks,27,128.25
+2026-05-15,Riverside,Cold brew,Drinks,20,85.00
+2026-05-15,Riverside,Croissant,Food,16,56.00
+2026-05-15,Riverside,Bagel,Food,12,35.40
+2026-05-15,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-05-15,Airport,Latte,Drinks,52,247.00
+2026-05-15,Airport,Cold brew,Drinks,42,178.50
+2026-05-15,Airport,Croissant,Food,31,108.50
+2026-05-15,Airport,Bagel,Food,25,73.75
+2026-05-15,Airport,Coffee beans (1 lb),Retail,5,75.00
+2026-05-16,Downtown,Latte,Drinks,57,270.75
+2026-05-16,Downtown,Cold brew,Drinks,35,148.75
+2026-05-16,Downtown,Croissant,Food,37,129.50
+2026-05-16,Downtown,Bagel,Food,22,64.90
+2026-05-16,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-05-16,Riverside,Latte,Drinks,33,156.75
+2026-05-16,Riverside,Cold brew,Drinks,23,97.75
+2026-05-16,Riverside,Croissant,Food,25,87.50
+2026-05-16,Riverside,Bagel,Food,19,56.05
+2026-05-16,Riverside,Coffee beans (1 lb),Retail,4,60.00
+2026-05-16,Airport,Latte,Drinks,55,261.25
+2026-05-16,Airport,Cold brew,Drinks,50,212.50
+2026-05-16,Airport,Croissant,Food,37,129.50
+2026-05-16,Airport,Bagel,Food,26,76.70
+2026-05-16,Airport,Coffee beans (1 lb),Retail,6,90.00
+2026-05-17,Downtown,Latte,Drinks,51,242.25
+2026-05-17,Downtown,Cold brew,Drinks,39,165.75
+2026-05-17,Downtown,Croissant,Food,27,94.50
+2026-05-17,Downtown,Bagel,Food,24,70.80
+2026-05-17,Downtown,Coffee beans (1 lb),Retail,5,75.00
+2026-05-17,Riverside,Latte,Drinks,37,175.75
+2026-05-17,Riverside,Cold brew,Drinks,25,106.25
+2026-05-17,Riverside,Croissant,Food,27,94.50
+2026-05-17,Riverside,Bagel,Food,15,44.25
+2026-05-17,Riverside,Coffee beans (1 lb),Retail,4,60.00
+2026-05-17,Airport,Latte,Drinks,53,251.75
+2026-05-17,Airport,Cold brew,Drinks,54,229.50
+2026-05-17,Airport,Croissant,Food,50,175.00
+2026-05-17,Airport,Bagel,Food,24,70.80
+2026-05-17,Airport,Coffee beans (1 lb),Retail,7,105.00
+2026-05-18,Downtown,Latte,Drinks,39,185.25
+2026-05-18,Downtown,Cold brew,Drinks,25,106.25
+2026-05-18,Downtown,Croissant,Food,26,91.00
+2026-05-18,Downtown,Bagel,Food,15,44.25
+2026-05-18,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-05-18,Riverside,Latte,Drinks,30,142.50
+2026-05-18,Riverside,Cold brew,Drinks,23,97.75
+2026-05-18,Riverside,Croissant,Food,18,63.00
+2026-05-18,Riverside,Bagel,Food,13,38.35
+2026-05-18,Riverside,Coffee beans (1 lb),Retail,2,30.00
+2026-05-18,Airport,Latte,Drinks,47,223.25
+2026-05-18,Airport,Cold brew,Drinks,37,157.25
+2026-05-18,Airport,Croissant,Food,34,119.00
+2026-05-18,Airport,Bagel,Food,19,56.05
+2026-05-18,Airport,Coffee beans (1 lb),Retail,5,75.00
+2026-05-19,Downtown,Latte,Drinks,38,180.50
+2026-05-19,Downtown,Cold brew,Drinks,31,131.75
+2026-05-19,Downtown,Croissant,Food,29,101.50
+2026-05-19,Downtown,Bagel,Food,16,47.20
+2026-05-19,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-05-19,Riverside,Latte,Drinks,30,142.50
+2026-05-19,Riverside,Cold brew,Drinks,18,76.50
+2026-05-19,Riverside,Croissant,Food,16,56.00
+2026-05-19,Riverside,Bagel,Food,12,35.40
+2026-05-19,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-05-19,Airport,Latte,Drinks,54,256.50
+2026-05-19,Airport,Cold brew,Drinks,36,153.00
+2026-05-19,Airport,Croissant,Food,29,101.50
+2026-05-19,Airport,Bagel,Food,21,61.95
+2026-05-19,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-05-20,Downtown,Latte,Drinks,44,209.00
+2026-05-20,Downtown,Cold brew,Drinks,27,114.75
+2026-05-20,Downtown,Croissant,Food,27,94.50
+2026-05-20,Downtown,Bagel,Food,18,53.10
+2026-05-20,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-05-20,Riverside,Latte,Drinks,33,156.75
+2026-05-20,Riverside,Cold brew,Drinks,24,102.00
+2026-05-20,Riverside,Croissant,Food,20,70.00
+2026-05-20,Riverside,Bagel,Food,13,38.35
+2026-05-20,Riverside,Coffee beans (1 lb),Retail,2,30.00
+2026-05-20,Airport,Latte,Drinks,59,280.25
+2026-05-20,Airport,Cold brew,Drinks,32,136.00
+2026-05-20,Airport,Croissant,Food,37,129.50
+2026-05-20,Airport,Bagel,Food,23,67.85
+2026-05-20,Airport,Coffee beans (1 lb),Retail,5,75.00
+2026-05-21,Downtown,Latte,Drinks,40,190.00
+2026-05-21,Downtown,Cold brew,Drinks,29,123.25
+2026-05-21,Downtown,Croissant,Food,21,73.50
+2026-05-21,Downtown,Bagel,Food,14,41.30
+2026-05-21,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-05-21,Riverside,Latte,Drinks,34,161.50
+2026-05-21,Riverside,Cold brew,Drinks,22,93.50
+2026-05-21,Riverside,Croissant,Food,21,73.50
+2026-05-21,Riverside,Bagel,Food,12,35.40
+2026-05-21,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-05-21,Airport,Latte,Drinks,47,223.25
+2026-05-21,Airport,Cold brew,Drinks,40,170.00
+2026-05-21,Airport,Croissant,Food,27,94.50
+2026-05-21,Airport,Bagel,Food,23,67.85
+2026-05-21,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-05-22,Downtown,Latte,Drinks,41,194.75
+2026-05-22,Downtown,Cold brew,Drinks,29,123.25
+2026-05-22,Downtown,Croissant,Food,26,91.00
+2026-05-22,Downtown,Bagel,Food,17,50.15
+2026-05-22,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-05-22,Riverside,Latte,Drinks,23,109.25
+2026-05-22,Riverside,Cold brew,Drinks,21,89.25
+2026-05-22,Riverside,Croissant,Food,15,52.50
+2026-05-22,Riverside,Bagel,Food,13,38.35
+2026-05-22,Riverside,Coffee beans (1 lb),Retail,2,30.00
+2026-05-22,Airport,Latte,Drinks,63,299.25
+2026-05-22,Airport,Cold brew,Drinks,30,127.50
+2026-05-22,Airport,Croissant,Food,38,133.00
+2026-05-22,Airport,Bagel,Food,25,73.75
+2026-05-22,Airport,Coffee beans (1 lb),Retail,5,75.00
+2026-05-23,Downtown,Latte,Drinks,57,270.75
+2026-05-23,Downtown,Cold brew,Drinks,29,123.25
+2026-05-23,Downtown,Croissant,Food,26,91.00
+2026-05-23,Downtown,Bagel,Food,18,53.10
+2026-05-23,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-05-23,Riverside,Latte,Drinks,37,175.75
+2026-05-23,Riverside,Cold brew,Drinks,29,123.25
+2026-05-23,Riverside,Croissant,Food,21,73.50
+2026-05-23,Riverside,Bagel,Food,15,44.25
+2026-05-23,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-05-23,Airport,Latte,Drinks,63,299.25
+2026-05-23,Airport,Cold brew,Drinks,48,204.00
+2026-05-23,Airport,Croissant,Food,51,178.50
+2026-05-23,Airport,Bagel,Food,26,76.70
+2026-05-23,Airport,Coffee beans (1 lb),Retail,6,90.00
+2026-05-24,Downtown,Latte,Drinks,56,266.00
+2026-05-24,Downtown,Cold brew,Drinks,36,153.00
+2026-05-24,Downtown,Croissant,Food,36,126.00
+2026-05-24,Downtown,Bagel,Food,24,70.80
+2026-05-24,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-05-24,Riverside,Latte,Drinks,35,166.25
+2026-05-24,Riverside,Cold brew,Drinks,26,110.50
+2026-05-24,Riverside,Croissant,Food,19,66.50
+2026-05-24,Riverside,Bagel,Food,13,38.35
+2026-05-24,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-05-24,Airport,Latte,Drinks,66,313.50
+2026-05-24,Airport,Cold brew,Drinks,45,191.25
+2026-05-24,Airport,Croissant,Food,47,164.50
+2026-05-24,Airport,Bagel,Food,30,88.50
+2026-05-24,Airport,Coffee beans (1 lb),Retail,7,105.00
+2026-05-25,Downtown,Latte,Drinks,33,156.75
+2026-05-25,Downtown,Cold brew,Drinks,28,119.00
+2026-05-25,Downtown,Croissant,Food,21,73.50
+2026-05-25,Downtown,Bagel,Food,15,44.25
+2026-05-25,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-05-25,Riverside,Latte,Drinks,34,161.50
+2026-05-25,Riverside,Cold brew,Drinks,20,85.00
+2026-05-25,Riverside,Croissant,Food,15,52.50
+2026-05-25,Riverside,Bagel,Food,11,32.45
+2026-05-25,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-05-25,Airport,Latte,Drinks,61,289.75
+2026-05-25,Airport,Cold brew,Drinks,38,161.50
+2026-05-25,Airport,Croissant,Food,28,98.00
+2026-05-25,Airport,Bagel,Food,27,79.65
+2026-05-25,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-05-26,Downtown,Latte,Drinks,46,218.50
+2026-05-26,Downtown,Cold brew,Drinks,29,123.25
+2026-05-26,Downtown,Croissant,Food,28,98.00
+2026-05-26,Downtown,Bagel,Food,19,56.05
+2026-05-26,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-05-26,Riverside,Latte,Drinks,24,114.00
+2026-05-26,Riverside,Cold brew,Drinks,18,76.50
+2026-05-26,Riverside,Croissant,Food,17,59.50
+2026-05-26,Riverside,Bagel,Food,15,44.25
+2026-05-26,Riverside,Coffee beans (1 lb),Retail,2,30.00
+2026-05-26,Airport,Latte,Drinks,61,289.75
+2026-05-26,Airport,Cold brew,Drinks,35,148.75
+2026-05-26,Airport,Croissant,Food,37,129.50
+2026-05-26,Airport,Bagel,Food,20,59.00
+2026-05-26,Airport,Coffee beans (1 lb),Retail,6,90.00
+2026-05-27,Downtown,Latte,Drinks,43,204.25
+2026-05-27,Downtown,Cold brew,Drinks,28,119.00
+2026-05-27,Downtown,Croissant,Food,30,105.00
+2026-05-27,Downtown,Bagel,Food,14,41.30
+2026-05-27,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-05-27,Riverside,Latte,Drinks,33,156.75
+2026-05-27,Riverside,Cold brew,Drinks,19,80.75
+2026-05-27,Riverside,Croissant,Food,21,73.50
+2026-05-27,Riverside,Bagel,Food,15,44.25
+2026-05-27,Riverside,Coffee beans (1 lb),Retail,2,30.00
+2026-05-27,Airport,Latte,Drinks,59,280.25
+2026-05-27,Airport,Cold brew,Drinks,30,127.50
+2026-05-27,Airport,Croissant,Food,31,108.50
+2026-05-27,Airport,Bagel,Food,28,82.60
+2026-05-27,Airport,Coffee beans (1 lb),Retail,5,75.00
+2026-05-28,Downtown,Latte,Drinks,37,175.75
+2026-05-28,Downtown,Cold brew,Drinks,32,136.00
+2026-05-28,Downtown,Croissant,Food,25,87.50
+2026-05-28,Downtown,Bagel,Food,18,53.10
+2026-05-28,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-05-28,Riverside,Latte,Drinks,25,118.75
+2026-05-28,Riverside,Cold brew,Drinks,22,93.50
+2026-05-28,Riverside,Croissant,Food,21,73.50
+2026-05-28,Riverside,Bagel,Food,14,41.30
+2026-05-28,Riverside,Coffee beans (1 lb),Retail,2,30.00
+2026-05-28,Airport,Latte,Drinks,46,218.50
+2026-05-28,Airport,Cold brew,Drinks,40,170.00
+2026-05-28,Airport,Croissant,Food,36,126.00
+2026-05-28,Airport,Bagel,Food,25,73.75
+2026-05-28,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-05-29,Downtown,Latte,Drinks,33,156.75
+2026-05-29,Downtown,Cold brew,Drinks,22,93.50
+2026-05-29,Downtown,Croissant,Food,23,80.50
+2026-05-29,Downtown,Bagel,Food,16,47.20
+2026-05-29,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-05-29,Riverside,Latte,Drinks,25,118.75
+2026-05-29,Riverside,Cold brew,Drinks,18,76.50
+2026-05-29,Riverside,Croissant,Food,19,66.50
+2026-05-29,Riverside,Bagel,Food,13,38.35
+2026-05-29,Riverside,Coffee beans (1 lb),Retail,2,30.00
+2026-05-29,Airport,Latte,Drinks,43,204.25
+2026-05-29,Airport,Cold brew,Drinks,35,148.75
+2026-05-29,Airport,Croissant,Food,29,101.50
+2026-05-29,Airport,Bagel,Food,24,70.80
+2026-05-29,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-05-30,Downtown,Latte,Drinks,47,223.25
+2026-05-30,Downtown,Cold brew,Drinks,32,136.00
+2026-05-30,Downtown,Croissant,Food,30,105.00
+2026-05-30,Downtown,Bagel,Food,18,53.10
+2026-05-30,Downtown,Coffee beans (1 lb),Retail,5,75.00
+2026-05-30,Riverside,Latte,Drinks,43,204.25
+2026-05-30,Riverside,Cold brew,Drinks,31,131.75
+2026-05-30,Riverside,Croissant,Food,24,84.00
+2026-05-30,Riverside,Bagel,Food,14,41.30
+2026-05-30,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-05-30,Airport,Latte,Drinks,57,270.75
+2026-05-30,Airport,Cold brew,Drinks,43,182.75
+2026-05-30,Airport,Croissant,Food,43,150.50
+2026-05-30,Airport,Bagel,Food,24,70.80
+2026-05-30,Airport,Coffee beans (1 lb),Retail,6,90.00
+2026-05-31,Downtown,Latte,Drinks,48,228.00
+2026-05-31,Downtown,Cold brew,Drinks,34,144.50
+2026-05-31,Downtown,Croissant,Food,26,91.00
+2026-05-31,Downtown,Bagel,Food,19,56.05
+2026-05-31,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-05-31,Riverside,Latte,Drinks,39,185.25
+2026-05-31,Riverside,Cold brew,Drinks,27,114.75
+2026-05-31,Riverside,Croissant,Food,21,73.50
+2026-05-31,Riverside,Bagel,Food,14,41.30
+2026-05-31,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-05-31,Airport,Latte,Drinks,78,370.50
+2026-05-31,Airport,Cold brew,Drinks,44,187.00
+2026-05-31,Airport,Croissant,Food,45,157.50
+2026-05-31,Airport,Bagel,Food,33,97.35
+2026-05-31,Airport,Coffee beans (1 lb),Retail,5,75.00
+2026-06-01,Downtown,Latte,Drinks,37,175.75
+2026-06-01,Downtown,Cold brew,Drinks,36,153.00
+2026-06-01,Downtown,Croissant,Food,29,101.50
+2026-06-01,Downtown,Bagel,Food,21,61.95
+2026-06-01,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-06-01,Riverside,Latte,Drinks,27,128.25
+2026-06-01,Riverside,Cold brew,Drinks,28,119.00
+2026-06-01,Riverside,Croissant,Food,17,59.50
+2026-06-01,Riverside,Bagel,Food,12,35.40
+2026-06-01,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-06-01,Airport,Latte,Drinks,63,299.25
+2026-06-01,Airport,Cold brew,Drinks,40,170.00
+2026-06-01,Airport,Croissant,Food,37,129.50
+2026-06-01,Airport,Bagel,Food,23,67.85
+2026-06-01,Airport,Coffee beans (1 lb),Retail,5,75.00
+2026-06-02,Downtown,Latte,Drinks,35,166.25
+2026-06-02,Downtown,Cold brew,Drinks,31,131.75
+2026-06-02,Downtown,Croissant,Food,29,101.50
+2026-06-02,Downtown,Bagel,Food,17,50.15
+2026-06-02,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-06-02,Riverside,Latte,Drinks,30,142.50
+2026-06-02,Riverside,Cold brew,Drinks,25,106.25
+2026-06-02,Riverside,Croissant,Food,19,66.50
+2026-06-02,Riverside,Bagel,Food,14,41.30
+2026-06-02,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-06-02,Airport,Latte,Drinks,63,299.25
+2026-06-02,Airport,Cold brew,Drinks,43,182.75
+2026-06-02,Airport,Croissant,Food,37,129.50
+2026-06-02,Airport,Bagel,Food,23,67.85
+2026-06-02,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-06-03,Downtown,Latte,Drinks,42,199.50
+2026-06-03,Downtown,Cold brew,Drinks,36,153.00
+2026-06-03,Downtown,Croissant,Food,28,98.00
+2026-06-03,Downtown,Bagel,Food,17,50.15
+2026-06-03,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-06-03,Riverside,Latte,Drinks,31,147.25
+2026-06-03,Riverside,Cold brew,Drinks,22,93.50
+2026-06-03,Riverside,Croissant,Food,20,70.00
+2026-06-03,Riverside,Bagel,Food,14,41.30
+2026-06-03,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-06-03,Airport,Latte,Drinks,44,209.00
+2026-06-03,Airport,Cold brew,Drinks,52,221.00
+2026-06-03,Airport,Croissant,Food,34,119.00
+2026-06-03,Airport,Bagel,Food,22,64.90
+2026-06-03,Airport,Coffee beans (1 lb),Retail,5,75.00
+2026-06-04,Downtown,Latte,Drinks,46,218.50
+2026-06-04,Downtown,Cold brew,Drinks,35,148.75
+2026-06-04,Downtown,Croissant,Food,26,91.00
+2026-06-04,Downtown,Bagel,Food,19,56.05
+2026-06-04,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-06-04,Riverside,Latte,Drinks,34,161.50
+2026-06-04,Riverside,Cold brew,Drinks,25,106.25
+2026-06-04,Riverside,Croissant,Food,20,70.00
+2026-06-04,Riverside,Bagel,Food,11,32.45
+2026-06-04,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-06-04,Airport,Latte,Drinks,57,270.75
+2026-06-04,Airport,Cold brew,Drinks,41,174.25
+2026-06-04,Airport,Croissant,Food,36,126.00
+2026-06-04,Airport,Bagel,Food,19,56.05
+2026-06-04,Airport,Coffee beans (1 lb),Retail,6,90.00
+2026-06-05,Downtown,Latte,Drinks,42,199.50
+2026-06-05,Downtown,Cold brew,Drinks,31,131.75
+2026-06-05,Downtown,Croissant,Food,28,98.00
+2026-06-05,Downtown,Bagel,Food,21,61.95
+2026-06-05,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-06-05,Riverside,Latte,Drinks,24,114.00
+2026-06-05,Riverside,Cold brew,Drinks,22,93.50
+2026-06-05,Riverside,Croissant,Food,19,66.50
+2026-06-05,Riverside,Bagel,Food,13,38.35
+2026-06-05,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-06-05,Airport,Latte,Drinks,55,261.25
+2026-06-05,Airport,Cold brew,Drinks,43,182.75
+2026-06-05,Airport,Croissant,Food,33,115.50
+2026-06-05,Airport,Bagel,Food,26,76.70
+2026-06-05,Airport,Coffee beans (1 lb),Retail,5,75.00
+2026-06-06,Downtown,Latte,Drinks,49,232.75
+2026-06-06,Downtown,Cold brew,Drinks,38,161.50
+2026-06-06,Downtown,Croissant,Food,26,91.00
+2026-06-06,Downtown,Bagel,Food,18,53.10
+2026-06-06,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-06-06,Riverside,Latte,Drinks,44,209.00
+2026-06-06,Riverside,Cold brew,Drinks,26,110.50
+2026-06-06,Riverside,Croissant,Food,28,98.00
+2026-06-06,Riverside,Bagel,Food,14,41.30
+2026-06-06,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-06-06,Airport,Latte,Drinks,65,308.75
+2026-06-06,Airport,Cold brew,Drinks,48,204.00
+2026-06-06,Airport,Croissant,Food,43,150.50
+2026-06-06,Airport,Bagel,Food,29,85.55
+2026-06-06,Airport,Coffee beans (1 lb),Retail,6,90.00
+2026-06-07,Downtown,Latte,Drinks,53,251.75
+2026-06-07,Downtown,Cold brew,Drinks,38,161.50
+2026-06-07,Downtown,Croissant,Food,29,101.50
+2026-06-07,Downtown,Bagel,Food,24,70.80
+2026-06-07,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-06-07,Riverside,Latte,Drinks,42,199.50
+2026-06-07,Riverside,Cold brew,Drinks,32,136.00
+2026-06-07,Riverside,Croissant,Food,26,91.00
+2026-06-07,Riverside,Bagel,Food,14,41.30
+2026-06-07,Riverside,Coffee beans (1 lb),Retail,4,60.00
+2026-06-07,Airport,Latte,Drinks,60,285.00
+2026-06-07,Airport,Cold brew,Drinks,48,204.00
+2026-06-07,Airport,Croissant,Food,37,129.50
+2026-06-07,Airport,Bagel,Food,30,88.50
+2026-06-07,Airport,Coffee beans (1 lb),Retail,7,105.00
+2026-06-08,Downtown,Latte,Drinks,35,166.25
+2026-06-08,Downtown,Cold brew,Drinks,31,131.75
+2026-06-08,Downtown,Croissant,Food,22,77.00
+2026-06-08,Downtown,Bagel,Food,18,53.10
+2026-06-08,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-06-08,Riverside,Latte,Drinks,24,114.00
+2026-06-08,Riverside,Cold brew,Drinks,25,106.25
+2026-06-08,Riverside,Croissant,Food,17,59.50
+2026-06-08,Riverside,Bagel,Food,13,38.35
+2026-06-08,Riverside,Coffee beans (1 lb),Retail,2,30.00
+2026-06-08,Airport,Latte,Drinks,58,275.50
+2026-06-08,Airport,Cold brew,Drinks,39,165.75
+2026-06-08,Airport,Croissant,Food,38,133.00
+2026-06-08,Airport,Bagel,Food,26,76.70
+2026-06-08,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-06-09,Downtown,Latte,Drinks,33,156.75
+2026-06-09,Downtown,Cold brew,Drinks,37,157.25
+2026-06-09,Downtown,Croissant,Food,22,77.00
+2026-06-09,Downtown,Bagel,Food,16,47.20
+2026-06-09,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-06-09,Riverside,Latte,Drinks,27,128.25
+2026-06-09,Riverside,Cold brew,Drinks,28,119.00
+2026-06-09,Riverside,Croissant,Food,19,66.50
+2026-06-09,Riverside,Bagel,Food,14,41.30
+2026-06-09,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-06-09,Airport,Latte,Drinks,56,266.00
+2026-06-09,Airport,Cold brew,Drinks,45,191.25
+2026-06-09,Airport,Croissant,Food,32,112.00
+2026-06-09,Airport,Bagel,Food,27,79.65
+2026-06-09,Airport,Coffee beans (1 lb),Retail,5,75.00
+2026-06-10,Downtown,Latte,Drinks,45,213.75
+2026-06-10,Downtown,Cold brew,Drinks,35,148.75
+2026-06-10,Downtown,Croissant,Food,23,80.50
+2026-06-10,Downtown,Bagel,Food,18,53.10
+2026-06-10,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-06-10,Riverside,Latte,Drinks,25,118.75
+2026-06-10,Riverside,Cold brew,Drinks,21,89.25
+2026-06-10,Riverside,Croissant,Food,18,63.00
+2026-06-10,Riverside,Bagel,Food,11,32.45
+2026-06-10,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-06-10,Airport,Latte,Drinks,54,256.50
+2026-06-10,Airport,Cold brew,Drinks,42,178.50
+2026-06-10,Airport,Croissant,Food,29,101.50
+2026-06-10,Airport,Bagel,Food,22,64.90
+2026-06-10,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-06-11,Downtown,Latte,Drinks,42,199.50
+2026-06-11,Downtown,Cold brew,Drinks,35,148.75
+2026-06-11,Downtown,Croissant,Food,27,94.50
+2026-06-11,Downtown,Bagel,Food,21,61.95
+2026-06-11,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-06-11,Riverside,Latte,Drinks,30,142.50
+2026-06-11,Riverside,Cold brew,Drinks,21,89.25
+2026-06-11,Riverside,Croissant,Food,18,63.00
+2026-06-11,Riverside,Bagel,Food,13,38.35
+2026-06-11,Riverside,Coffee beans (1 lb),Retail,2,30.00
+2026-06-11,Airport,Latte,Drinks,51,242.25
+2026-06-11,Airport,Cold brew,Drinks,35,148.75
+2026-06-11,Airport,Croissant,Food,29,101.50
+2026-06-11,Airport,Bagel,Food,26,76.70
+2026-06-11,Airport,Coffee beans (1 lb),Retail,6,90.00
+2026-06-12,Downtown,Latte,Drinks,40,190.00
+2026-06-12,Downtown,Cold brew,Drinks,32,136.00
+2026-06-12,Downtown,Croissant,Food,27,94.50
+2026-06-12,Downtown,Bagel,Food,17,50.15
+2026-06-12,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-06-12,Riverside,Latte,Drinks,30,142.50
+2026-06-12,Riverside,Cold brew,Drinks,20,85.00
+2026-06-12,Riverside,Croissant,Food,16,56.00
+2026-06-12,Riverside,Bagel,Food,14,41.30
+2026-06-12,Riverside,Coffee beans (1 lb),Retail,2,30.00
+2026-06-12,Airport,Latte,Drinks,49,232.75
+2026-06-12,Airport,Cold brew,Drinks,45,191.25
+2026-06-12,Airport,Croissant,Food,30,105.00
+2026-06-12,Airport,Bagel,Food,23,67.85
+2026-06-12,Airport,Coffee beans (1 lb),Retail,5,75.00
+2026-06-13,Downtown,Latte,Drinks,55,261.25
+2026-06-13,Downtown,Cold brew,Drinks,41,174.25
+2026-06-13,Downtown,Croissant,Food,27,94.50
+2026-06-13,Downtown,Bagel,Food,18,53.10
+2026-06-13,Downtown,Coffee beans (1 lb),Retail,5,75.00
+2026-06-13,Riverside,Latte,Drinks,42,199.50
+2026-06-13,Riverside,Cold brew,Drinks,29,123.25
+2026-06-13,Riverside,Croissant,Food,27,94.50
+2026-06-13,Riverside,Bagel,Food,13,38.35
+2026-06-13,Riverside,Coffee beans (1 lb),Retail,4,60.00
+2026-06-13,Airport,Latte,Drinks,68,323.00
+2026-06-13,Airport,Cold brew,Drinks,66,280.50
+2026-06-13,Airport,Croissant,Food,36,126.00
+2026-06-13,Airport,Bagel,Food,33,97.35
+2026-06-13,Airport,Coffee beans (1 lb),Retail,6,90.00
+2026-06-14,Downtown,Latte,Drinks,46,218.50
+2026-06-14,Downtown,Cold brew,Drinks,49,208.25
+2026-06-14,Downtown,Croissant,Food,31,108.50
+2026-06-14,Downtown,Bagel,Food,20,59.00
+2026-06-14,Downtown,Coffee beans (1 lb),Retail,5,75.00
+2026-06-14,Riverside,Latte,Drinks,36,171.00
+2026-06-14,Riverside,Cold brew,Drinks,37,157.25
+2026-06-14,Riverside,Croissant,Food,27,94.50
+2026-06-14,Riverside,Bagel,Food,15,44.25
+2026-06-14,Riverside,Coffee beans (1 lb),Retail,4,60.00
+2026-06-14,Airport,Latte,Drinks,69,327.75
+2026-06-14,Airport,Cold brew,Drinks,52,221.00
+2026-06-14,Airport,Croissant,Food,47,164.50
+2026-06-14,Airport,Bagel,Food,31,91.45
+2026-06-14,Airport,Coffee beans (1 lb),Retail,5,75.00
+2026-06-15,Downtown,Latte,Drinks,34,161.50
+2026-06-15,Downtown,Cold brew,Drinks,29,123.25
+2026-06-15,Downtown,Croissant,Food,23,80.50
+2026-06-15,Downtown,Bagel,Food,14,41.30
+2026-06-15,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-06-15,Riverside,Latte,Drinks,27,128.25
+2026-06-15,Riverside,Cold brew,Drinks,25,106.25
+2026-06-15,Riverside,Croissant,Food,18,63.00
+2026-06-15,Riverside,Bagel,Food,14,41.30
+2026-06-15,Riverside,Coffee beans (1 lb),Retail,2,30.00
+2026-06-15,Airport,Latte,Drinks,49,232.75
+2026-06-15,Airport,Cold brew,Drinks,50,212.50
+2026-06-15,Airport,Croissant,Food,41,143.50
+2026-06-15,Airport,Bagel,Food,25,73.75
+2026-06-15,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-06-16,Downtown,Latte,Drinks,47,223.25
+2026-06-16,Downtown,Cold brew,Drinks,36,153.00
+2026-06-16,Downtown,Croissant,Food,30,105.00
+2026-06-16,Downtown,Bagel,Food,21,61.95
+2026-06-16,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-06-16,Riverside,Latte,Drinks,25,118.75
+2026-06-16,Riverside,Cold brew,Drinks,28,119.00
+2026-06-16,Riverside,Croissant,Food,17,59.50
+2026-06-16,Riverside,Bagel,Food,14,41.30
+2026-06-16,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-06-16,Airport,Latte,Drinks,59,280.25
+2026-06-16,Airport,Cold brew,Drinks,47,199.75
+2026-06-16,Airport,Croissant,Food,34,119.00
+2026-06-16,Airport,Bagel,Food,24,70.80
+2026-06-16,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-06-17,Downtown,Latte,Drinks,39,185.25
+2026-06-17,Downtown,Cold brew,Drinks,32,136.00
+2026-06-17,Downtown,Croissant,Food,27,94.50
+2026-06-17,Downtown,Bagel,Food,20,59.00
+2026-06-17,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-06-17,Riverside,Latte,Drinks,30,142.50
+2026-06-17,Riverside,Cold brew,Drinks,22,93.50
+2026-06-17,Riverside,Croissant,Food,23,80.50
+2026-06-17,Riverside,Bagel,Food,12,35.40
+2026-06-17,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-06-17,Airport,Latte,Drinks,50,237.50
+2026-06-17,Airport,Cold brew,Drinks,35,148.75
+2026-06-17,Airport,Croissant,Food,38,133.00
+2026-06-17,Airport,Bagel,Food,26,76.70
+2026-06-17,Airport,Coffee beans (1 lb),Retail,5,75.00
+2026-06-18,Downtown,Latte,Drinks,39,185.25
+2026-06-18,Downtown,Cold brew,Drinks,35,148.75
+2026-06-18,Downtown,Croissant,Food,24,84.00
+2026-06-18,Downtown,Bagel,Food,14,41.30
+2026-06-18,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-06-18,Riverside,Latte,Drinks,27,128.25
+2026-06-18,Riverside,Cold brew,Drinks,24,102.00
+2026-06-18,Riverside,Croissant,Food,17,59.50
+2026-06-18,Riverside,Bagel,Food,12,35.40
+2026-06-18,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-06-18,Airport,Latte,Drinks,50,237.50
+2026-06-18,Airport,Cold brew,Drinks,45,191.25
+2026-06-18,Airport,Croissant,Food,36,126.00
+2026-06-18,Airport,Bagel,Food,23,67.85
+2026-06-18,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-06-19,Downtown,Latte,Drinks,43,204.25
+2026-06-19,Downtown,Cold brew,Drinks,27,114.75
+2026-06-19,Downtown,Croissant,Food,22,77.00
+2026-06-19,Downtown,Bagel,Food,20,59.00
+2026-06-19,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-06-19,Riverside,Latte,Drinks,25,118.75
+2026-06-19,Riverside,Cold brew,Drinks,28,119.00
+2026-06-19,Riverside,Croissant,Food,19,66.50
+2026-06-19,Riverside,Bagel,Food,11,32.45
+2026-06-19,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-06-19,Airport,Latte,Drinks,48,228.00
+2026-06-19,Airport,Cold brew,Drinks,47,199.75
+2026-06-19,Airport,Croissant,Food,30,105.00
+2026-06-19,Airport,Bagel,Food,25,73.75
+2026-06-19,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-06-20,Downtown,Latte,Drinks,59,280.25
+2026-06-20,Downtown,Cold brew,Drinks,37,157.25
+2026-06-20,Downtown,Croissant,Food,34,119.00
+2026-06-20,Downtown,Bagel,Food,20,59.00
+2026-06-20,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-06-20,Riverside,Latte,Drinks,44,209.00
+2026-06-20,Riverside,Cold brew,Drinks,27,114.75
+2026-06-20,Riverside,Croissant,Food,23,80.50
+2026-06-20,Riverside,Bagel,Food,15,44.25
+2026-06-20,Riverside,Coffee beans (1 lb),Retail,4,60.00
+2026-06-20,Airport,Latte,Drinks,60,285.00
+2026-06-20,Airport,Cold brew,Drinks,59,250.75
+2026-06-20,Airport,Croissant,Food,47,164.50
+2026-06-20,Airport,Bagel,Food,24,70.80
+2026-06-20,Airport,Coffee beans (1 lb),Retail,6,90.00
+2026-06-21,Downtown,Latte,Drinks,43,204.25
+2026-06-21,Downtown,Cold brew,Drinks,36,153.00
+2026-06-21,Downtown,Croissant,Food,34,119.00
+2026-06-21,Downtown,Bagel,Food,18,53.10
+2026-06-21,Downtown,Coffee beans (1 lb),Retail,5,75.00
+2026-06-21,Riverside,Latte,Drinks,42,199.50
+2026-06-21,Riverside,Cold brew,Drinks,37,157.25
+2026-06-21,Riverside,Croissant,Food,23,80.50
+2026-06-21,Riverside,Bagel,Food,14,41.30
+2026-06-21,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-06-21,Airport,Latte,Drinks,64,304.00
+2026-06-21,Airport,Cold brew,Drinks,60,255.00
+2026-06-21,Airport,Croissant,Food,37,129.50
+2026-06-21,Airport,Bagel,Food,27,79.65
+2026-06-21,Airport,Coffee beans (1 lb),Retail,7,105.00
+2026-06-22,Downtown,Latte,Drinks,34,161.50
+2026-06-22,Downtown,Cold brew,Drinks,36,153.00
+2026-06-22,Downtown,Croissant,Food,28,98.00
+2026-06-22,Downtown,Bagel,Food,15,44.25
+2026-06-22,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-06-22,Riverside,Latte,Drinks,26,123.50
+2026-06-22,Riverside,Cold brew,Drinks,25,106.25
+2026-06-22,Riverside,Croissant,Food,16,56.00
+2026-06-22,Riverside,Bagel,Food,14,41.30
+2026-06-22,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-06-22,Airport,Latte,Drinks,59,280.25
+2026-06-22,Airport,Cold brew,Drinks,47,199.75
+2026-06-22,Airport,Croissant,Food,30,105.00
+2026-06-22,Airport,Bagel,Food,23,67.85
+2026-06-22,Airport,Coffee beans (1 lb),Retail,5,75.00
+2026-06-23,Downtown,Latte,Drinks,46,218.50
+2026-06-23,Downtown,Cold brew,Drinks,27,114.75
+2026-06-23,Downtown,Croissant,Food,22,77.00
+2026-06-23,Downtown,Bagel,Food,19,56.05
+2026-06-23,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-06-23,Riverside,Latte,Drinks,29,137.75
+2026-06-23,Riverside,Cold brew,Drinks,29,123.25
+2026-06-23,Riverside,Croissant,Food,18,63.00
+2026-06-23,Riverside,Bagel,Food,11,32.45
+2026-06-23,Riverside,Coffee beans (1 lb),Retail,2,30.00
+2026-06-23,Airport,Latte,Drinks,45,213.75
+2026-06-23,Airport,Cold brew,Drinks,45,191.25
+2026-06-23,Airport,Croissant,Food,36,126.00
+2026-06-23,Airport,Bagel,Food,25,73.75
+2026-06-23,Airport,Coffee beans (1 lb),Retail,5,75.00
+2026-06-24,Downtown,Latte,Drinks,43,204.25
+2026-06-24,Downtown,Cold brew,Drinks,37,157.25
+2026-06-24,Downtown,Croissant,Food,27,94.50
+2026-06-24,Downtown,Bagel,Food,16,47.20
+2026-06-24,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-06-24,Riverside,Latte,Drinks,30,142.50
+2026-06-24,Riverside,Cold brew,Drinks,27,114.75
+2026-06-24,Riverside,Croissant,Food,18,63.00
+2026-06-24,Riverside,Bagel,Food,11,32.45
+2026-06-24,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-06-24,Airport,Latte,Drinks,64,304.00
+2026-06-24,Airport,Cold brew,Drinks,44,187.00
+2026-06-24,Airport,Croissant,Food,29,101.50
+2026-06-24,Airport,Bagel,Food,24,70.80
+2026-06-24,Airport,Coffee beans (1 lb),Retail,5,75.00
+2026-06-25,Downtown,Latte,Drinks,41,194.75
+2026-06-25,Downtown,Cold brew,Drinks,39,165.75
+2026-06-25,Downtown,Croissant,Food,31,108.50
+2026-06-25,Downtown,Bagel,Food,21,61.95
+2026-06-25,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-06-25,Riverside,Latte,Drinks,34,161.50
+2026-06-25,Riverside,Cold brew,Drinks,25,106.25
+2026-06-25,Riverside,Croissant,Food,18,63.00
+2026-06-25,Riverside,Bagel,Food,14,41.30
+2026-06-25,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-06-25,Airport,Latte,Drinks,64,304.00
+2026-06-25,Airport,Cold brew,Drinks,49,208.25
+2026-06-25,Airport,Croissant,Food,28,98.00
+2026-06-25,Airport,Bagel,Food,20,59.00
+2026-06-25,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-06-26,Downtown,Latte,Drinks,33,156.75
+2026-06-26,Downtown,Cold brew,Drinks,27,114.75
+2026-06-26,Downtown,Croissant,Food,29,101.50
+2026-06-26,Downtown,Bagel,Food,18,53.10
+2026-06-26,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-06-26,Riverside,Latte,Drinks,30,142.50
+2026-06-26,Riverside,Cold brew,Drinks,24,102.00
+2026-06-26,Riverside,Croissant,Food,21,73.50
+2026-06-26,Riverside,Bagel,Food,11,32.45
+2026-06-26,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-06-26,Airport,Latte,Drinks,57,270.75
+2026-06-26,Airport,Cold brew,Drinks,40,170.00
+2026-06-26,Airport,Croissant,Food,32,112.00
+2026-06-26,Airport,Bagel,Food,24,70.80
+2026-06-26,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-06-27,Downtown,Latte,Drinks,56,266.00
+2026-06-27,Downtown,Cold brew,Drinks,42,178.50
+2026-06-27,Downtown,Croissant,Food,31,108.50
+2026-06-27,Downtown,Bagel,Food,23,67.85
+2026-06-27,Downtown,Coffee beans (1 lb),Retail,5,75.00
+2026-06-27,Riverside,Latte,Drinks,40,190.00
+2026-06-27,Riverside,Cold brew,Drinks,26,110.50
+2026-06-27,Riverside,Croissant,Food,26,91.00
+2026-06-27,Riverside,Bagel,Food,18,53.10
+2026-06-27,Riverside,Coffee beans (1 lb),Retail,4,60.00
+2026-06-27,Airport,Latte,Drinks,56,266.00
+2026-06-27,Airport,Cold brew,Drinks,46,195.50
+2026-06-27,Airport,Croissant,Food,43,150.50
+2026-06-27,Airport,Bagel,Food,29,85.55
+2026-06-27,Airport,Coffee beans (1 lb),Retail,6,90.00
+2026-06-28,Downtown,Latte,Drinks,46,218.50
+2026-06-28,Downtown,Cold brew,Drinks,45,191.25
+2026-06-28,Downtown,Croissant,Food,35,122.50
+2026-06-28,Downtown,Bagel,Food,19,56.05
+2026-06-28,Downtown,Coffee beans (1 lb),Retail,5,75.00
+2026-06-28,Riverside,Latte,Drinks,41,194.75
+2026-06-28,Riverside,Cold brew,Drinks,27,114.75
+2026-06-28,Riverside,Croissant,Food,29,101.50
+2026-06-28,Riverside,Bagel,Food,17,50.15
+2026-06-28,Riverside,Coffee beans (1 lb),Retail,4,60.00
+2026-06-28,Airport,Latte,Drinks,74,351.50
+2026-06-28,Airport,Cold brew,Drinks,48,204.00
+2026-06-28,Airport,Croissant,Food,37,129.50
+2026-06-28,Airport,Bagel,Food,33,97.35
+2026-06-28,Airport,Coffee beans (1 lb),Retail,5,75.00
+2026-06-29,Downtown,Latte,Drinks,47,223.25
+2026-06-29,Downtown,Cold brew,Drinks,37,157.25
+2026-06-29,Downtown,Croissant,Food,21,73.50
+2026-06-29,Downtown,Bagel,Food,20,59.00
+2026-06-29,Downtown,Coffee beans (1 lb),Retail,3,45.00
+2026-06-29,Riverside,Latte,Drinks,25,118.75
+2026-06-29,Riverside,Cold brew,Drinks,27,114.75
+2026-06-29,Riverside,Croissant,Food,20,70.00
+2026-06-29,Riverside,Bagel,Food,11,32.45
+2026-06-29,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-06-29,Airport,Latte,Drinks,51,242.25
+2026-06-29,Airport,Cold brew,Drinks,45,191.25
+2026-06-29,Airport,Croissant,Food,36,126.00
+2026-06-29,Airport,Bagel,Food,23,67.85
+2026-06-29,Airport,Coffee beans (1 lb),Retail,4,60.00
+2026-06-30,Downtown,Latte,Drinks,34,161.50
+2026-06-30,Downtown,Cold brew,Drinks,34,144.50
+2026-06-30,Downtown,Croissant,Food,28,98.00
+2026-06-30,Downtown,Bagel,Food,16,47.20
+2026-06-30,Downtown,Coffee beans (1 lb),Retail,4,60.00
+2026-06-30,Riverside,Latte,Drinks,25,118.75
+2026-06-30,Riverside,Cold brew,Drinks,28,119.00
+2026-06-30,Riverside,Croissant,Food,17,59.50
+2026-06-30,Riverside,Bagel,Food,13,38.35
+2026-06-30,Riverside,Coffee beans (1 lb),Retail,3,45.00
+2026-06-30,Airport,Latte,Drinks,47,223.25
+2026-06-30,Airport,Cold brew,Drinks,52,221.00
+2026-06-30,Airport,Croissant,Food,40,140.00
+2026-06-30,Airport,Bagel,Food,24,70.80
+2026-06-30,Airport,Coffee beans (1 lb),Retail,6,90.00
