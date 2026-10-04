@@ -1,0 +1,9 @@
+# Netlify: builds the React site in web/
+[build]
+  base = "web"
+  command = "npm run build"
+  publish = "dist"
+
+# Not a secret: the public backend URL, baked into the build by Vite
+[build.environment]
+  VITE_API_URL = "https://csv-report-api.onrender.com"
