@@ -26,7 +26,9 @@ SAMPLE_FILE = os.path.join(os.path.dirname(__file__), "sample_sales.csv")
 app = Flask(__name__)
 app.json.sort_keys = False  # keep the CSV's own column order in responses
 app.config["MAX_CONTENT_LENGTH"] = MAX_FILE_BYTES + 64 * 1024  # file + form overhead
-CORS(app, origins=os.getenv("ALLOWED_ORIGINS", "http://localhost:5173").split(","))
+# The demo's own public address is always allowed; ALLOWED_ORIGINS adds others (comma-separated)
+SITE_ORIGIN = "https://reports.logicagentry.com"
+CORS(app, origins=[o.strip().rstrip("/") for o in os.getenv("ALLOWED_ORIGINS", "http://localhost:5173").split(",") if o.strip()] + [SITE_ORIGIN])
 
 _hits = defaultdict(list)  # ip -> timestamps (resets on restart; fine for a demo)
 _daily = {"day": None, "count": 0}
