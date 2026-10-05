@@ -16,7 +16,8 @@ TYPE_THRESHOLD = 0.9  # a column is "numeric"/"date" if 90%+ of its non-empty ce
 MAX_CATEGORIES = 50   # text columns with more distinct values than this aren't treated as categories
 METRIC_NAME = re.compile(r"revenue|sales|amount|total|price|income|profit|cost|spend|value", re.I)
 
-_NUMBER = re.compile(r"^[-+]?\(?\s*[$€£]?\s*(\d[\d.,]*|\.\d+)\s*\)?\s*%?$")
+# Currency symbol before (US: $1,250.00) or after (Europe: 1.250,00 €) the number
+_NUMBER = re.compile(r"^[-+]?\(?\s*[$€£]?\s*(\d[\d.,]*|\.\d+)\s*[$€£]?\s*\)?\s*%?$")
 _DATE_FORMATS = (
     "%Y-%m-%d", "%Y/%m/%d", "%m/%d/%Y", "%m/%d/%y", "%d/%m/%Y", "%Y-%m-%d %H:%M:%S",
     "%Y-%m-%dT%H:%M:%S", "%Y-%m-%d %H:%M", "%b %d, %Y", "%d %b %Y", "%B %d, %Y",
@@ -27,8 +28,12 @@ class CsvError(ValueError):
     """A problem with the uploaded file that the user can fix (shown to them as-is)."""
 
 
+_SPACED_THOUSANDS = re.compile(r"(?<=\d)[   ](?=\d{3}(?:\D|$))")
+
+
 def to_number(text: str):
-    text = text.strip()
+    # French/Swiss style uses spaces between thousands (1 250,00 €): drop those spaces first
+    text = _SPACED_THOUSANDS.sub("", text.strip())
     if not text or not _NUMBER.match(text):
         return None
     negative = text.startswith("-") or (text.startswith("(") and text.endswith(")"))
